@@ -14,11 +14,11 @@ folders to set up.
 
 | Approach | Notebook | Colab |
 |---|---|---|
-| Data exploration | `exploration_groupwork/EduAll_Exploration_Code.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/exploration_groupwork/EduAll_Exploration_Code.ipynb) |
+| Data exploration | `free_generation/exploration_groupwork/EduAll_Exploration_Code.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/free_generation/exploration_groupwork/EduAll_Exploration_Code.ipynb) |
 | Data exploration — report | `protocols/agentic_mimicking_protocols/DataExploration/DataExploration_Report.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/protocols/agentic_mimicking_protocols/DataExploration/DataExploration_Report.ipynb) |
 | Data exploration — agentic report | `protocols/agentic_mimicking_protocols/DataExploration/DataExploration_AgenticReport_Protocol.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/protocols/agentic_mimicking_protocols/DataExploration/DataExploration_AgenticReport_Protocol.ipynb) |
-| Traditional AI — clustering | `traditionalAI_groupwork/01_unsupervised_clustering.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/traditionalAI_groupwork/01_unsupervised_clustering.ipynb) |
-| Traditional AI — decision trees / random forest | `traditionalAI_groupwork/02_decision_trees_random_forest.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/traditionalAI_groupwork/02_decision_trees_random_forest.ipynb) |
+| Traditional AI — clustering | `free_generation/traditionalAI_groupwork/01_unsupervised_clustering.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/free_generation/traditionalAI_groupwork/01_unsupervised_clustering.ipynb) |
+| Traditional AI — decision trees / random forest | `free_generation/traditionalAI_groupwork/02_decision_trees_random_forest.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/free_generation/traditionalAI_groupwork/02_decision_trees_random_forest.ipynb) |
 | Traditional ML 1 — random-forest proximity | `protocols/agentic_mimicking_protocols/TraditionalML/1_RF_proximity/RF_Proximity_Protocol.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/protocols/agentic_mimicking_protocols/TraditionalML/1_RF_proximity/RF_Proximity_Protocol.ipynb) |
 | Traditional ML 2 — text embeddings | `protocols/agentic_mimicking_protocols/TraditionalML/2_Text_embeddings/Text_Embeddings_Protocol.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/protocols/agentic_mimicking_protocols/TraditionalML/2_Text_embeddings/Text_Embeddings_Protocol.ipynb) |
 | Traditional ML 3 — Gower distance | `protocols/agentic_mimicking_protocols/TraditionalML/3_Gower/Gower_Protocol.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/protocols/agentic_mimicking_protocols/TraditionalML/3_Gower/Gower_Protocol.ipynb) |
@@ -110,9 +110,10 @@ data/
   individual_applications/                one application document per applicant (STU000001 ... STU000500)
   individual_applications.zip             the same 500 files in one zip
   eduall_data/                            grant call, FAQ, organisation profile and other foundation documents
-exploration_groupwork/                    data exploration notebook
-traditionalAI_groupwork/                  clustering and decision-tree notebooks
-protocols/agentic_mimicking_protocols/
+free_generation/                          notebooks written freely, without a protocol
+  exploration_groupwork/                  data exploration notebook
+  traditionalAI_groupwork/                clustering and decision-tree notebooks
+protocols/agentic_mimicking_protocols/    notebooks that follow the course protocols
   DataExploration/                        exploration reports
   TraditionalML/1_RF_proximity ... 5_Survival/   five traditional machine-learning protocols
   LLMWorkflow1/                           the LLM workflow (Gemini) and its AnythingLLM flow
