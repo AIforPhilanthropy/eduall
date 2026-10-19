@@ -1,0 +1,28 @@
+step,item,n,agreement
+2 eligibility,H2 verdict,80,1.0
+2 eligibility,H4 verdict,80,0.975
+2 eligibility,H5 verdict,80,1.0
+2 eligibility,H6 verdict,80,1.0
+2 eligibility,H7 verdict,80,1.0
+2 eligibility,gate (before human checkpoint),80,0.988
+2 eligibility,eligible yes/no (flag = undecided),80,0.988
+3 read-out,"S1 score, exact",61,0.574
+3 read-out,"S1 score, within 1 point",61,1.0
+3 read-out,"S2 score, exact",61,0.639
+3 read-out,"S2 score, within 1 point",61,1.0
+3 read-out,"S3 score, exact",61,0.721
+3 read-out,"S3 score, within 1 point",61,1.0
+3 read-out,"S4 score, exact",61,0.82
+3 read-out,"S4 score, within 1 point",61,0.984
+3 read-out,"S5 score, exact",61,0.59
+3 read-out,"S5 score, within 1 point",61,0.967
+3 read-out,"weighted score, within 0.5",61,0.885
+3 read-out,enrichment: need_change_2027,61,0.852
+3 read-out,enrichment: support_ending,61,0.918
+3 read-out,enrichment: other_funding_tried,61,0.836
+3 read-out,enrichment: consistency,61,0.869
+5 recommendation,"category, exact",61,0.803
+5 recommendation,"category, within one",61,1.0
+5 recommendation,strong_fund/fund vs reserve/do_not_fund,61,0.885
+final,funded yes/no,80,0.975
+final,award within CHF 500,80,0.975

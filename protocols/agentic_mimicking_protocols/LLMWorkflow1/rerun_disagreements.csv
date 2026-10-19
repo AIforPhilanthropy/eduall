@@ -1,0 +1,16 @@
+student_id,gate_run1,gate_run2,rec_run1,rec_run2,ws_run1,ws_run2,funded_run1,funded_run2
+STU000012,eligible,eligible,strong_fund,fund,7.05,6.5,False,False
+STU000044,eligible,eligible,strong_fund,strong_fund,7.65,7.7,False,True
+STU000101,eligible,eligible,strong_fund,fund,7.1,6.85,False,False
+STU000105,eligible,eligible,strong_fund,strong_fund,7.7,7.6,True,False
+STU000271,eligible,eligible,fund,reserve,6.55,5.95,False,False
+STU000277,eligible,eligible,reserve,fund,6.45,6.65,False,False
+STU000318,ineligible,human checkpoint,-,-,,,False,False
+STU000323,eligible,eligible,reserve,fund,5.65,6.25,False,False
+STU000342,eligible,eligible,fund,reserve,6.1,5.85,False,False
+STU000392,eligible,eligible,reserve,fund,5.95,6.0,False,False
+STU000393,eligible,eligible,reserve,fund,5.95,5.95,False,False
+STU000409,eligible,eligible,strong_fund,fund,7.4,6.75,False,False
+STU000449,eligible,eligible,fund,strong_fund,7.35,7.6,False,False
+STU000465,eligible,eligible,fund,strong_fund,6.45,6.95,False,False
+STU000481,eligible,eligible,fund,reserve,6.0,5.95,False,False

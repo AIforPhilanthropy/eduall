@@ -1,0 +1,147 @@
+================================================================================
+EDUALL FOUNDATION - 500 APPLICATIONS SYNTHETIC DATASET
+GENERATION COMPLETE
+================================================================================
+
+TOTAL RECORDS: 500 student applications
+
+TASK: Evaluate each applicant against the EduAll Grant Call 2026 criteria and 
+decide which students get granted and why. Decisions are due by 30 June 2027;
+funding starts 1 September 2027.
+
+MAIN FILE: EduAll_500_Applications_Dataset.csv
+
+================================================================================
+DATASET CONTENTS
+================================================================================
+
+PRIMARY FILE:
+  └─ EduAll_500_Applications_Dataset.csv (89 KB)
+     • 500 records + 1 header row (501 total lines)
+     • 44 columns with quantitative and discrete variables
+     • Fully anonymized synthetic data
+     • CSV format for easy loading into Python, R, Excel, SQL
+
+INDIVIDUAL APPLICATION DOCUMENTS:
+  └─ individual_applications/ folder (500 files)
+     • One markdown file per student (STU000001_application.md through STU000500_application.md)
+     • Each file is the completed application form, consistent with the CSV row:
+       - Applicant information and study programme
+       - Financial information (income, itemised monthly expenses, savings, need)
+       - Financial Statement (written by the applicant, 300-400 words)
+       - Personal Statement (written by the applicant, max. 500 words)
+       - CV (education, work, leadership/volunteering, languages)
+       - Circumstances checklist (8 risk and 5 resilience/strength factors)
+       - Statement of Declared Circumstances (max. 300 words)
+     • Statements vary in writing style and in how openly applicants
+       discuss weaknesses (some only present their strengths)
+
+================================================================================
+VARIABLES INCLUDED (44 TOTAL)
+================================================================================
+
+IDENTIFICATION (2):
+  • student_id
+  • application_date
+
+DEMOGRAPHIC (8):
+  • age, gender, country_origin, gni_tier
+  • geographic_region, dependent_children
+  • residency_permit (B, C, F, S, or Pending)
+
+ACADEMIC (11):
+  • study_level, university, field_of_study, semesters_in_program
+  • study_mode, planned_study_mode_2027
+  • gpa, average_grade, courses_completed
+  • publications, academic_standing
+
+FINANCIAL (11):
+  • family_income_chf, family_household_income_chf, personal_income_chf
+  • expected_personal_income_2027_chf
+  • monthly_expenses_chf, housing_cost_chf, tuition_fees_per_year_chf
+  • savings_chf
+  • financial_need_chf
+  • has_external_scholarship, external_scholarship_amount_chf
+
+RISK FACTORS - DISCRETE/BINARY (8):
+  • risk_first_generation, risk_refugee_asylum, risk_disability
+  • risk_housing_insecurity, risk_family_emergency, risk_language_barrier
+  • risk_parent_student, risk_undocumented_status
+
+RESILIENCE FACTORS - DISCRETE/BINARY (5):
+  • resilience_volunteer_experience, resilience_work_experience
+  • resilience_leadership_role, resilience_community_engagement
+  • resilience_overcame_adversity
+
+================================================================================
+KEY DEFINITIONS
+================================================================================
+
+• gni_tier: income group of the country of origin
+    1 = GNI per capita below USD 3,000 (the Grant Call's priority
+        "low-income countries"): Afghanistan, Bangladesh, Ghana, India,
+        Kenya, Nigeria, Pakistan, Palestine, Senegal, Syria
+    2 = middle-income: Egypt, Indonesia, Iraq, Morocco, Peru,
+        Philippines, Vietnam
+    3 = higher-income European countries: Bulgaria, Romania, Ukraine
+• All amounts are in CHF per month, except savings_chf (total amount),
+  external_scholarship_amount_chf and tuition_fees_per_year_chf
+  (CHF per year).
+• housing_cost_chf = monthly rent including utilities; it is part of
+  monthly_expenses_chf.
+• tuition_fees_per_year_chf = tuition and semester fees charged by the
+  institution per academic year (included in monthly_expenses_chf as a
+  monthly share).
+• dependent_children = number of children the applicant supports
+  (0 unless risk_parent_student = 1). EduAll grants do not cover
+  dependants' costs; a separate Student Parent Support Program exists.
+• financial_need_chf = the applicant's CURRENT MONTHLY shortfall at the
+  time of application, in CHF per month:
+      monthly_expenses_chf - family_income_chf - personal_income_chf
+  (minimum 0). It is not a yearly amount and not the total needed until
+  graduation. It does NOT deduct other scholarships
+  (external_scholarship_amount_chf, per year) or savings (savings_chf,
+  a stock); these are listed separately. How much support an applicant
+  needs overall depends on how long they still need to study (within
+  the grant period) and on these other resources.
+• study_mode = current study mode (Full-time or Part-time).
+  planned_study_mode_2027 = study mode the applicant plans for the grant
+  year 2027/28. Some part-time students plan to change to full-time study
+  in September 2027 in order to finish sooner. Part-time students progress
+  more slowly, so their degrees take longer to complete.
+• expected_personal_income_2027_chf = the applicant's expected monthly
+  personal income in 2027/28 (CHF per month), as declared in the form.
+  For most applicants it equals personal_income_chf; it is lower for
+  applicants who plan to reduce their working hours or to change to
+  full-time study. The financial_need_chf column is based on current
+  income, not on this expected income.
+• academic_standing "At Risk" = GPA below 2.5/4.0, below the Grant
+  Call's normal minimum; such applicants may be considered if they
+  explain their circumstances.
+• semesters_in_program = semesters completed by the application date
+  (applications were submitted between 20 June and 1 September 2026;
+  the next semester starts in autumn 2026).
+• courses_completed = courses passed so far in the current degree
+  programme. The number of courses each degree requires is set out in
+  the Grant Call ("Grant Period and Award Amount"). Awards cover the
+  2027/28 academic year (funding starts 1 September 2027) and are
+  pro-rated for students who finish during that year.
+
+================================================================================
+NOTES
+================================================================================
+
+• This is SYNTHETIC DATA created for research and educational purposes
+• No real personal information is contained in this dataset
+• All demographic information is randomly generated
+• Financial figures are simulated and realistic but not actual
+• Risk factors are assigned probabilistically based on country profiles
+• family_income_chf = monthly support sent by family members;
+  family_household_income_chf = combined monthly income of those family members
+  (net, CHF equivalent). The supporting family may live in Switzerland (e.g. a
+  partner or parents working here) or abroad; the statements say who they are
+  and where they live.
+• residency_permit "Pending" = permit application submitted, decision pending
+  (applicants flagged with risk_undocumented_status)
+
+================================================================================

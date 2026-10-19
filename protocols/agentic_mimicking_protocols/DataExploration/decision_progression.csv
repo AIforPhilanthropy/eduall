@@ -1,0 +1,501 @@
+student_id,financial_need_chf,family_income_chf,family_household_income_chf,personal_income_chf,savings_chf,monthly_expenses_chf,study_level,study_mode,residency_permit,gpa,academic_standing,gni_tier,geographic_region,risk_first_generation,risk_count,resil_count,request_chf,eligibility_status,need_tercile,priority_tier,funding_rank,award_chf,funding_status
+STU000291,2401,180,860,0,0,2581,Doctoral,Full-time,B,2.89,Good,1,South Asia,1,4,3,5000,eligible,Top,Priority A,1.0,5000.0,Funded
+STU000413,2354,80,270,0,9091,2434,Master's,Full-time,B,3.28,Good,1,South Asia,0,2,1,6500,eligible,Top,Priority A,2.0,6500.0,Funded
+STU000391,2351,90,450,0,10774,2441,Master's,Full-time,B,2.81,Good,1,South Asia,0,2,2,6500,eligible,Top,Priority A,3.0,6500.0,Funded
+STU000147,2321,120,680,0,0,2441,Bachelor's,Full-time,B,2.91,Good,1,South Asia,0,0,2,8000,eligible,Top,Priority A,4.0,8000.0,Funded
+STU000394,2319,280,1160,0,2953,2599,Master's,Full-time,B,3.03,Good,3,Western Europe,1,1,2,6500,eligible,Top,Priority A,5.0,6500.0,Funded
+STU000256,2302,250,880,0,0,2552,Doctoral,Full-time,B,2.96,Good,1,Middle East/North Africa,1,1,2,5000,eligible,Top,Priority A,6.0,5000.0,Funded
+STU000249,2295,280,1130,0,4284,2575,Master's,Full-time,B,3.59,Good,1,Sub-Saharan Africa,1,1,5,6500,eligible,Top,Priority A,7.0,6500.0,Funded
+STU000409,2282,210,1040,0,0,2492,Master's,Full-time,B,3.43,Good,2,Southeast Asia,0,0,2,6500,eligible,Top,Priority A,8.0,6500.0,Funded
+STU000335,2263,170,840,0,7717,2433,Doctoral,Full-time,Pending,3.63,Good,1,South Asia,1,5,3,5000,"eligible, conditional on pending permit",Top,Priority A,9.0,5000.0,Funded (conditional on permit)
+STU000490,2256,210,1000,0,4109,2466,Master's,Full-time,B,2.78,Good,1,Sub-Saharan Africa,0,0,1,6500,eligible,Top,Priority A,10.0,6500.0,Funded
+STU000075,2248,130,820,0,0,2378,Master's,Full-time,B,3.16,Good,1,South Asia,1,2,3,6500,eligible,Top,Priority A,11.0,6500.0,Funded
+STU000489,2240,180,870,0,0,2420,Master's,Full-time,B,2.9,Good,1,South Asia,1,4,3,6500,eligible,Top,Priority A,12.0,6500.0,Funded
+STU000024,2214,140,550,0,0,2354,Bachelor's,Full-time,B,3.02,Good,1,Middle East/North Africa,1,2,3,8000,eligible,Top,Priority A,13.0,8000.0,Funded
+STU000348,2212,160,1070,0,0,2372,Master's,Full-time,F,2.81,Good,2,Middle East/North Africa,1,1,3,6500,eligible,Top,Priority A,14.0,6500.0,Funded
+STU000259,2162,270,1140,0,0,2432,Doctoral,Full-time,B,3.38,Good,1,Sub-Saharan Africa,1,2,2,5000,eligible,Top,Priority A,15.0,5000.0,Funded
+STU000421,2161,440,1790,0,0,2601,Doctoral,Full-time,C,3.63,Good,2,Middle East/North Africa,0,0,2,5000,eligible,Top,Priority A,16.0,5000.0,Funded
+STU000353,2150,50,320,0,2344,2200,Master's,Full-time,B,2.92,Good,1,South Asia,0,3,3,6500,eligible,Top,Priority A,17.0,6500.0,Funded
+STU000222,2130,190,830,0,10114,2320,Master's,Full-time,C,3.24,Good,1,Sub-Saharan Africa,0,0,2,6500,eligible,Top,Priority A,18.0,6500.0,Funded
+STU000415,2129,180,780,0,10492,2309,Bachelor's,Full-time,B,2.68,Good,1,South Asia,1,4,2,8000,eligible,Top,Priority A,19.0,8000.0,Funded
+STU000198,2116,70,430,0,14388,2186,Doctoral,Full-time,B,3.67,Good,1,South Asia,0,1,3,5000,eligible,Top,Priority A,20.0,5000.0,Funded
+STU000180,2115,300,1100,0,5391,2415,Master's,Full-time,B,3.18,Good,2,Latin America,0,1,3,6500,eligible,Top,Priority A,21.0,6500.0,Funded
+STU000329,2087,130,790,0,4768,2217,Bachelor's,Full-time,B,2.66,Good,3,Western Europe,0,1,2,8000,eligible,Top,Priority A,22.0,8000.0,Funded
+STU000278,2063,340,1550,0,0,2403,Doctoral,Full-time,B,3.87,Good,2,Latin America,0,1,5,5000,eligible,Top,Priority A,23.0,5000.0,Funded
+STU000422,2053,350,1210,0,0,2403,Master's,Full-time,B,4.0,Good,1,Middle East/North Africa,1,1,1,6500,eligible,Top,Priority A,24.0,6500.0,Funded
+STU000137,2050,219,760,0,14554,2269,Bachelor's,Full-time,B,3.49,Good,1,Sub-Saharan Africa,1,1,2,8000,eligible,Top,Priority A,25.0,8000.0,Funded
+STU000265,2045,190,1130,0,5008,2235,Bachelor's,Full-time,Pending,3.26,Good,2,Middle East/North Africa,0,2,1,8000,"eligible, conditional on pending permit",Top,Priority A,26.0,8000.0,Funded (conditional on permit)
+STU000416,2041,190,670,0,0,2231,Bachelor's,Full-time,B,3.15,Good,1,South Asia,1,3,3,8000,eligible,Top,Priority A,27.0,8000.0,Funded
+STU000165,2036,360,1280,0,4228,2396,Doctoral,Full-time,F,3.26,Good,1,Middle East/North Africa,1,2,3,5000,eligible,Top,Priority A,28.0,5000.0,Funded
+STU000296,2032,280,1250,0,8691,2312,Master's,Full-time,B,2.81,Good,1,Middle East/North Africa,1,2,2,6500,eligible,Top,Priority A,29.0,6500.0,Funded
+STU000212,2027,110,470,377,0,2514,Master's,Full-time,C,2.51,Good,1,South Asia,1,2,2,6500,eligible,Top,Priority A,30.0,6500.0,Funded
+STU000056,2020,390,1560,0,12371,2410,Doctoral,Full-time,C,4.0,Good,2,Southeast Asia,0,3,3,5000,eligible,Top,Priority A,31.0,5000.0,Funded
+STU000448,2019,90,500,0,0,2109,Master's,Full-time,B,2.53,Good,1,South Asia,0,2,2,6500,eligible,Top,Priority A,32.0,6500.0,Funded
+STU000482,1995,460,1840,0,10452,2455,Master's,Full-time,B,2.92,Good,1,South Asia,1,2,3,6500,eligible,Top,Priority A,33.0,6500.0,Funded
+STU000319,1995,360,1980,0,6487,2355,Doctoral,Full-time,B,3.06,Good,3,Western Europe,1,3,1,5000,eligible,Top,Priority A,34.0,5000.0,Funded
+STU000356,1993,190,660,0,11869,2183,Master's,Full-time,B,3.38,Good,1,Sub-Saharan Africa,0,0,4,6500,eligible,Top,Priority A,35.0,6500.0,Funded
+STU000016,1992,376,1260,0,0,2368,Master's,Full-time,B,3.64,Good,1,South Asia,1,3,3,6500,eligible,Top,Priority A,36.0,6500.0,Funded
+STU000458,1982,660,2210,0,0,2642,Master's,Full-time,B,3.69,Good,2,Latin America,1,4,2,6500,eligible,Top,Priority A,37.0,6500.0,Funded
+STU000274,1960,130,540,0,2375,2090,Bachelor's,Full-time,Pending,3.13,Good,1,Sub-Saharan Africa,1,4,3,8000,"eligible, conditional on pending permit",Top,Priority A,38.0,8000.0,Funded (conditional on permit)
+STU000073,1954,270,1060,288,10531,2512,Master's,Full-time,B,3.14,Good,1,Sub-Saharan Africa,0,3,1,6500,eligible,Top,Priority A,39.0,6500.0,Funded
+STU000449,1949,310,1130,213,6577,2472,Doctoral,Full-time,F,3.27,Good,1,Sub-Saharan Africa,0,0,2,5000,eligible,Top,Priority A,40.0,5000.0,Funded
+STU000206,1941,120,670,0,0,2061,Bachelor's,Full-time,B,2.53,Good,1,South Asia,1,1,3,8000,eligible,Top,Priority A,41.0,8000.0,Funded
+STU000270,1934,390,1420,0,6121,2324,Master's,Full-time,Pending,3.34,Good,1,Sub-Saharan Africa,0,1,4,6500,"eligible, conditional on pending permit",Top,Priority A,42.0,6500.0,Funded (conditional on permit)
+STU000366,1931,253,890,0,0,2184,Bachelor's,Full-time,B,2.74,Good,1,Sub-Saharan Africa,1,2,4,8000,eligible,Top,Priority A,43.0,8000.0,Funded
+STU000381,1924,140,960,325,0,2389,Master's,Full-time,B,4.0,Good,1,Sub-Saharan Africa,1,1,5,6500,eligible,Top,Priority A,44.0,6500.0,Funded
+STU000041,1921,280,1190,243,0,2444,Master's,Full-time,B,2.97,Good,1,South Asia,0,1,3,6500,eligible,Top,Priority A,45.0,6500.0,Funded
+STU000171,1919,407,1910,0,14102,2326,Doctoral,Full-time,B,3.42,Good,1,South Asia,1,1,2,5000,eligible,Top,Priority A,46.0,5000.0,Funded
+STU000142,1903,150,910,0,9675,2053,Doctoral,Full-time,B,3.41,Good,1,South Asia,1,3,4,5000,eligible,Top,Priority A,47.0,5000.0,Funded
+STU000125,1895,70,360,0,14028,1965,Bachelor's,Full-time,B,3.09,Good,1,Sub-Saharan Africa,0,1,1,8000,eligible,Top,Priority A,48.0,8000.0,Funded
+STU000174,1895,390,1440,0,0,2285,Bachelor's,Full-time,B,3.16,Good,1,Sub-Saharan Africa,0,0,1,8000,eligible,Top,Priority A,49.0,8000.0,Funded
+STU000065,1892,250,850,0,0,2142,Master's,Full-time,B,2.89,Good,1,South Asia,1,3,3,6500,eligible,Top,Priority A,50.0,6500.0,Funded
+STU000320,1890,120,760,302,10892,2312,Master's,Full-time,B,3.12,Good,1,South Asia,0,2,2,6500,eligible,Top,Priority A,51.0,6500.0,Funded
+STU000383,1880,190,810,0,0,2070,Master's,Full-time,Pending,3.23,Good,1,South Asia,1,6,2,6500,"eligible, conditional on pending permit",Top,Priority A,52.0,6500.0,Funded (conditional on permit)
+STU000460,1869,410,1820,0,0,2279,Doctoral,Full-time,F,3.3,Good,1,South Asia,1,2,3,5000,eligible,Top,Priority A,53.0,5000.0,Funded
+STU000099,1865,350,1960,0,0,2215,Bachelor's,Full-time,B,3.58,Good,2,Latin America,0,1,2,8000,eligible,Top,Priority A,54.0,8000.0,Funded
+STU000032,1862,280,1250,490,0,2632,Master's,Full-time,B,3.03,Good,1,Middle East/North Africa,1,4,5,6500,eligible,Top,Priority A,55.0,6500.0,Funded
+STU000069,1860,540,3500,0,1537,2400,Master's,Full-time,B,3.57,Good,2,Middle East/North Africa,0,1,1,6500,eligible,Top,Priority A,56.0,6500.0,Funded
+STU000104,1847,370,1550,0,4533,2217,Bachelor's,Full-time,B,2.94,Good,2,Middle East/North Africa,1,1,1,8000,eligible,Top,Priority A,57.0,8000.0,Funded
+STU000227,1842,560,2500,0,0,2402,Master's,Full-time,B,3.33,Good,2,Southeast Asia,0,2,3,6500,eligible,Top,Priority A,58.0,6500.0,Funded
+STU000339,1827,255,890,321,0,2403,Master's,Full-time,B,3.53,Good,1,Sub-Saharan Africa,1,1,3,6500,eligible,Top,Priority A,59.0,6500.0,Funded
+STU000362,1822,280,980,0,9270,2102,Bachelor's,Full-time,B,2.98,Good,1,Sub-Saharan Africa,0,0,2,8000,eligible,Top,Priority A,60.0,8000.0,Funded
+STU000035,1808,340,1750,0,5134,2148,Bachelor's,Full-time,B,2.93,Good,2,Middle East/North Africa,1,3,3,8000,eligible,Top,Priority A,61.0,8000.0,Funded
+STU000159,1808,520,2950,0,0,2328,Bachelor's,Full-time,B,3.69,Good,2,Southeast Asia,0,1,2,8000,eligible,Top,Priority A,62.0,8000.0,Funded
+STU000247,1804,460,2190,0,0,2264,Master's,Full-time,B,3.11,Good,1,Middle East/North Africa,1,1,2,6500,eligible,Top,Priority A,63.0,6500.0,Funded
+STU000002,1799,266,1020,414,11699,2479,Master's,Full-time,B,3.25,Good,1,South Asia,1,1,2,6500,eligible,Top,Priority A,64.0,6500.0,Funded
+STU000214,1782,720,3140,0,11406,2502,Master's,Full-time,B,3.07,Good,3,Eastern Europe,0,1,2,6500,eligible,Top,Priority A,65.0,6500.0,Funded
+STU000399,1777,310,1170,213,0,2300,Doctoral,Full-time,B,3.54,Good,1,South Asia,1,5,4,5000,eligible,Top,Priority A,66.0,5000.0,Funded
+STU000375,1770,230,1220,284,9353,2284,Master's,Full-time,B,2.72,Good,2,Middle East/North Africa,1,4,2,6500,eligible,Top,Priority A,67.0,6500.0,Funded
+STU000102,1768,412,1500,0,12721,2180,Bachelor's,Full-time,B,3.0,Good,2,Southeast Asia,1,1,3,8000,eligible,Top,Priority A,68.0,8000.0,Funded
+STU000129,1765,130,490,0,6099,1895,Bachelor's,Full-time,B,3.37,Good,1,Sub-Saharan Africa,0,0,3,8000,eligible,Top,Priority A,69.0,8000.0,Funded
+STU000128,1760,80,430,477,0,2317,Bachelor's,Full-time,B,3.45,Good,1,South Asia,1,1,3,8000,eligible,Top,Priority A,70.0,8000.0,Funded
+STU000089,1747,287,1240,0,0,2034,Master's,Full-time,B,2.86,Good,1,Sub-Saharan Africa,1,1,2,6500,eligible,Top,Priority A,71.0,6500.0,Funded
+STU000324,1747,140,850,0,13340,1887,Bachelor's,Full-time,B,4.0,Good,1,Sub-Saharan Africa,1,1,3,8000,eligible,Top,Priority A,72.0,8000.0,Funded
+STU000310,1746,180,770,0,0,1926,Master's,Full-time,B,2.92,Good,1,South Asia,1,1,4,6500,eligible,Top,Priority A,73.0,6500.0,Funded
+STU000121,1744,500,1990,0,0,2244,Master's,Full-time,B,3.76,Good,2,Latin America,1,1,1,6500,eligible,Top,Priority A,74.0,6500.0,Funded
+STU000389,1738,100,540,446,4228,2284,Bachelor's,Full-time,B,2.77,Good,1,South Asia,1,2,3,8000,eligible,Top,Priority A,75.0,8000.0,Funded
+STU000402,1721,150,620,0,6571,1871,Master's,Full-time,B,2.96,Good,1,Sub-Saharan Africa,0,1,2,6500,eligible,Top,Priority A,76.0,2000.0,Funded (partial -- budget exhausted)
+STU000001,709,220,1230,816,0,1745,Bachelor's,Full-time,B,3.25,Good,2,Southeast Asia,1,2,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000003,1642,380,1680,363,0,2385,Master's,Full-time,B,2.98,Good,2,Southeast Asia,0,1,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000004,306,530,1920,1151,0,1987,Bachelor's,Full-time,B,3.29,Good,2,Middle East/North Africa,1,2,3,3672,eligible,Bottom,Priority C,,0.0,Not funded
+STU000005,912,290,1720,885,2667,2087,Bachelor's,Full-time,B,2.9,Good,2,Southeast Asia,0,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000006,639,1560,5260,0,0,2199,Bachelor's,Full-time,B,3.49,Good,3,Eastern Europe,0,1,1,7668,eligible,Bottom,Priority C,,0.0,Not funded
+STU000007,737,190,1120,1164,10240,2091,Bachelor's,Full-time,B,2.85,Good,1,Middle East/North Africa,1,2,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000008,732,240,1390,879,0,1851,Bachelor's,Full-time,B,3.77,Good,2,Southeast Asia,0,0,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000009,1612,280,1320,0,0,1892,Master's,Full-time,B,3.65,Good,2,Southeast Asia,0,0,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000010,0,320,5030,2577,0,2140,Master's,Part-time,C,3.43,Good,3,Eastern Europe,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000011,487,310,3700,1452,11923,2249,Bachelor's,Part-time,C,3.01,Good,2,Middle East/North Africa,0,1,2,5844,eligible,Bottom,Priority C,,0.0,Not funded
+STU000012,1376,120,700,935,7047,2431,Master's,Full-time,B,2.86,Good,1,South Asia,0,0,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000013,0,810,9200,1423,0,1963,Master's,Part-time,B,3.42,Good,3,Eastern Europe,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000014,0,270,9500,2056,0,2041,Bachelor's,Part-time,B,2.42,At Risk,3,Eastern Europe,0,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000015,2411,170,1100,0,0,2581,Master's,Full-time,B,2.32,At Risk,1,Sub-Saharan Africa,0,0,2,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000017,0,380,9020,2342,0,2206,Master's,Part-time,B,3.3,Good,3,Eastern Europe,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000018,0,300,2500,2365,1341,2135,Bachelor's,Part-time,C,2.99,Good,1,Sub-Saharan Africa,0,3,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000019,1409,102,480,905,0,2416,Master's,Full-time,B,2.85,Good,1,South Asia,0,0,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000020,1545,230,800,293,0,2068,Doctoral,Full-time,B,3.3,Good,1,South Asia,0,1,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000021,1019,940,3270,0,0,1959,Master's,Full-time,B,3.16,Good,3,Eastern Europe,0,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000022,0,1280,4790,764,10320,1649,Bachelor's,Full-time,B,3.18,Good,2,Southeast Asia,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000023,1620,430,1450,0,0,2050,Bachelor's,Full-time,B,3.51,Good,1,Sub-Saharan Africa,0,0,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000025,371,270,1040,1315,5347,1956,Bachelor's,Part-time,B,3.1,Good,1,South Asia,0,1,2,4452,eligible,Bottom,Priority C,,0.0,Not funded
+STU000026,836,240,900,752,0,1828,Bachelor's,Full-time,B,2.67,Good,1,South Asia,0,0,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000027,1783,200,1310,0,1109,1983,Master's,Full-time,B,3.7,Good,1,South Asia,1,1,0,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000028,408,140,1030,1477,14095,2025,Bachelor's,Part-time,F,2.36,At Risk,1,Sub-Saharan Africa,0,0,3,4896,eligible,Bottom,Priority C,,0.0,Not funded
+STU000029,812,360,1720,1002,0,2174,Bachelor's,Full-time,B,3.29,Good,2,Middle East/North Africa,0,1,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000030,0,1040,5600,881,3000,1756,Bachelor's,Full-time,B,3.37,Good,2,Southeast Asia,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000031,0,280,6960,2165,0,2122,Bachelor's,Part-time,C,2.85,Good,3,Eastern Europe,0,0,2,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000033,1533,730,4280,0,0,2263,Master's,Full-time,B,3.27,Good,3,Eastern Europe,0,0,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000034,1097,750,2100,0,0,1847,Bachelor's,Full-time,C,2.93,Good,1,Sub-Saharan Africa,1,2,1,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000036,542,240,870,1173,13052,1955,Master's,Full-time,B,3.78,Good,1,Sub-Saharan Africa,1,1,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000037,0,160,7830,2494,0,2200,Master's,Part-time,B,3.35,Good,3,Eastern Europe,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000038,0,370,4940,1947,0,1757,Master's,Part-time,B,3.6,Good,2,Southeast Asia,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000039,0,110,480,2113,9849,2179,Bachelor's,Part-time,B,3.66,Good,1,South Asia,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000040,0,150,700,2285,0,2060,Master's,Part-time,C,3.08,Good,1,South Asia,1,3,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000042,617,110,550,1675,13197,2402,Master's,Part-time,F,3.13,Good,1,Sub-Saharan Africa,1,2,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000043,0,860,4600,1440,14987,2256,Master's,Part-time,C,2.77,Good,1,South Asia,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000044,527,360,1400,746,0,1633,Bachelor's,Full-time,B,3.2,Good,1,South Asia,1,2,3,6324,eligible,Bottom,Priority C,,0.0,Not funded
+STU000045,117,2010,6780,0,0,2127,Bachelor's,Full-time,B,2.7,Good,3,Eastern Europe,1,3,0,1404,eligible,Bottom,Priority C,,0.0,Not funded
+STU000046,492,788,7300,749,0,2029,Doctoral,Full-time,C,3.07,Good,1,Sub-Saharan Africa,1,3,1,5000,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000047,440,1012,5000,719,0,2171,Master's,Full-time,B,2.88,Good,2,Middle East/North Africa,1,1,1,5280,eligible,Bottom,Priority C,,0.0,Not funded
+STU000048,1883,170,1130,0,0,2053,Bachelor's,Full-time,B,2.2,At Risk,1,Sub-Saharan Africa,1,2,0,8000,eligible,Top,Priority C,,0.0,Not funded
+STU000049,0,270,6520,2348,0,2417,Bachelor's,Part-time,B,2.58,Good,3,Eastern Europe,1,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000050,0,240,5000,2583,0,1981,Bachelor's,Part-time,C,2.78,Good,2,Southeast Asia,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000051,807,800,3270,825,0,2432,Master's,Full-time,B,3.46,Good,2,Southeast Asia,1,2,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000052,0,250,5000,2694,0,2178,Master's,Part-time,C,2.98,Good,2,Middle East/North Africa,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000053,0,340,7600,2515,549,1890,Bachelor's,Part-time,C,2.82,Good,2,Middle East/North Africa,1,2,2,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000054,1312,407,2670,0,0,1719,Bachelor's,Full-time,B,3.5,Good,2,Southeast Asia,0,0,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000055,0,240,4400,2273,0,1678,Bachelor's,Part-time,C,3.64,Good,2,Middle East/North Africa,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000057,0,240,3900,2128,0,2287,Master's,Part-time,C,2.97,Good,1,South Asia,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000058,914,860,3670,0,9538,1774,Master's,Full-time,B,3.2,Good,3,Eastern Europe,0,0,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000059,1289,184,1070,644,0,2117,Bachelor's,Full-time,B,2.57,Good,1,Sub-Saharan Africa,0,0,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000060,94,1926,5000,0,4303,2020,Master's,Full-time,B,3.15,Good,2,Southeast Asia,0,0,3,1128,eligible,Bottom,Priority C,,0.0,Not funded
+STU000061,0,230,5000,1700,2024,1598,Bachelor's,Part-time,C,2.54,Good,2,Southeast Asia,1,2,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000062,0,300,5200,2114,0,1953,Master's,Part-time,C,2.87,Good,2,Southeast Asia,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000063,1398,170,760,357,0,1925,Doctoral,Full-time,B,2.56,Good,1,Middle East/North Africa,1,1,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000064,0,170,2500,2123,0,2069,Bachelor's,Part-time,C,2.36,At Risk,1,South Asia,1,3,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000066,0,600,3810,1597,0,1849,Master's,Part-time,C,3.3,Good,3,Eastern Europe,1,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000067,1341,220,810,316,0,1877,Master's,Full-time,B,2.83,Good,3,Western Europe,0,0,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000068,0,460,1910,2149,0,2385,Master's,Part-time,C,3.2,Good,2,Middle East/North Africa,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000070,0,1760,9800,0,10749,1643,Bachelor's,Full-time,B,3.31,Good,2,Southeast Asia,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000071,1567,420,2130,0,0,1987,Master's,Full-time,B,3.23,Good,2,Southeast Asia,1,1,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000072,1567,170,800,0,0,1737,Master's,Full-time,Pending,3.37,Good,1,South Asia,1,3,3,6500,"eligible, conditional on pending permit",Middle,Priority B,,0.0,Not funded
+STU000074,439,130,810,1079,8229,1648,Master's,Full-time,B,2.83,Good,1,Sub-Saharan Africa,0,0,5,5268,eligible,Bottom,Priority C,,0.0,Not funded
+STU000076,1515,233,1050,467,0,2215,Master's,Full-time,B,3.11,Good,1,Sub-Saharan Africa,1,3,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000077,998,406,3000,378,0,1782,Master's,Full-time,B,2.97,Good,1,South Asia,1,3,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000078,1708,150,830,352,0,2210,Doctoral,Full-time,B,3.18,Good,1,South Asia,1,5,2,5000,eligible,Top,Priority A,,0.0,Not funded
+STU000079,1054,140,570,806,0,2000,Master's,Full-time,C,3.25,Good,1,South Asia,0,1,5,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000080,0,800,2220,1199,0,1605,Bachelor's,Full-time,C,2.0,At Risk,2,Middle East/North Africa,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000081,1172,260,1190,414,0,1846,Bachelor's,Full-time,B,3.08,Good,1,Middle East/North Africa,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000082,1541,180,1030,303,3612,2024,Master's,Full-time,B,3.42,Good,2,Middle East/North Africa,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000083,632,250,850,656,8119,1538,Bachelor's,Full-time,B,3.26,Good,1,South Asia,1,2,2,7584,eligible,Bottom,Priority C,,0.0,Not funded
+STU000084,641,490,1670,1042,10249,2173,Bachelor's,Full-time,B,3.07,Good,1,Middle East/North Africa,1,1,2,7692,eligible,Bottom,Priority C,,0.0,Not funded
+STU000085,0,360,3060,2002,0,2140,Master's,Part-time,S,3.19,Good,3,Eastern Europe,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000086,316,1473,5000,0,14838,1789,Master's,Full-time,F,3.11,Good,2,Middle East/North Africa,1,3,1,3792,eligible,Bottom,Priority C,,0.0,Not funded
+STU000087,0,230,8600,2590,0,1910,Bachelor's,Part-time,C,2.12,At Risk,1,Sub-Saharan Africa,1,3,3,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000088,1692,190,1120,0,0,1882,Master's,Full-time,B,3.19,Good,1,Sub-Saharan Africa,1,1,3,6500,eligible,Top,Priority A,,0.0,Not funded
+STU000090,0,370,9400,1686,0,1504,Bachelor's,Part-time,B,3.18,Good,3,Eastern Europe,0,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000091,1282,250,1280,732,0,2264,Bachelor's,Full-time,B,2.8,Good,1,Sub-Saharan Africa,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000092,1508,380,1560,630,9024,2518,Master's,Full-time,B,3.01,Good,1,South Asia,1,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000093,1414,250,880,251,0,1915,Doctoral,Full-time,B,3.82,Good,1,Sub-Saharan Africa,1,3,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000094,0,220,9500,2341,11714,2392,Master's,Part-time,B,3.33,Good,3,Eastern Europe,0,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000095,726,346,1160,484,0,1556,Bachelor's,Full-time,B,3.55,Good,1,Sub-Saharan Africa,1,1,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000096,1665,199,1060,0,6318,1864,Master's,Full-time,B,3.45,Good,1,Sub-Saharan Africa,0,0,5,6500,eligible,Top,Priority A,,0.0,Not funded
+STU000097,0,2000,5620,593,0,2183,Doctoral,Full-time,B,3.35,Good,3,Eastern Europe,1,2,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000098,1488,700,2440,0,6740,2188,Master's,Full-time,B,3.51,Good,2,Middle East/North Africa,1,3,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000100,867,80,530,1005,9397,1952,Bachelor's,Full-time,B,2.9,Good,1,South Asia,0,0,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000101,1231,120,600,1179,0,2530,Master's,Full-time,B,3.11,Good,1,Sub-Saharan Africa,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000103,944,200,1100,1127,0,2271,Bachelor's,Full-time,B,2.9,Good,1,Middle East/North Africa,1,2,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000105,1464,130,570,713,6461,2307,Master's,Full-time,B,3.18,Good,1,Sub-Saharan Africa,0,2,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000106,1646,120,560,587,0,2353,Doctoral,Full-time,Pending,3.39,Good,1,Sub-Saharan Africa,0,1,3,5000,"eligible, conditional on pending permit",Top,Priority A,,0.0,Not funded
+STU000107,0,390,5200,2702,3225,1887,Bachelor's,Part-time,B,3.02,Good,2,Southeast Asia,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000108,1689,479,1720,0,0,2168,Bachelor's,Full-time,B,3.51,Good,2,Southeast Asia,0,1,1,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000109,1242,250,990,636,0,2128,Bachelor's,Full-time,B,2.83,Good,1,South Asia,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000110,1186,320,1720,593,0,2099,Bachelor's,Full-time,B,3.45,Good,1,Middle East/North Africa,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000111,0,170,1370,2570,0,1906,Bachelor's,Part-time,C,2.96,Good,1,Sub-Saharan Africa,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000112,1414,230,790,608,0,2252,Master's,Full-time,B,2.83,Good,1,Sub-Saharan Africa,1,1,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000113,0,180,860,2686,9113,2240,Master's,Part-time,F,2.97,Good,1,South Asia,1,2,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000114,1752,668,3670,0,2136,2420,Bachelor's,Full-time,B,3.07,Good,2,Middle East/North Africa,1,2,0,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000115,0,240,8300,2605,9935,2015,Bachelor's,Part-time,C,2.53,Good,2,Southeast Asia,1,2,2,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000116,1465,100,510,223,0,1788,Master's,Full-time,B,2.46,At Risk,1,South Asia,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000117,1025,652,2580,811,0,2488,Master's,Full-time,B,2.87,Good,1,Sub-Saharan Africa,0,1,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000118,768,510,6170,1323,6699,2601,Master's,Part-time,S,3.55,Good,3,Eastern Europe,0,1,5,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000119,1094,330,1180,630,0,2054,Bachelor's,Full-time,B,2.23,At Risk,1,Sub-Saharan Africa,0,1,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000120,0,820,5300,1453,8384,2028,Bachelor's,Part-time,B,3.03,Good,2,Southeast Asia,0,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000122,0,360,2500,1774,11693,2052,Master's,Part-time,C,3.79,Good,1,Sub-Saharan Africa,1,3,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000123,1268,420,1560,0,0,1688,Doctoral,Full-time,B,3.62,Good,2,Middle East/North Africa,1,2,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000124,0,1886,5000,446,0,2261,Master's,Full-time,B,3.11,Good,2,Middle East/North Africa,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000126,0,280,5500,2241,1852,2080,Master's,Part-time,C,3.36,Good,1,Middle East/North Africa,1,3,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000127,0,250,2900,2567,0,2088,Master's,Part-time,C,2.63,Good,2,Middle East/North Africa,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000130,199,1927,5900,0,0,2126,Bachelor's,Full-time,B,3.76,Good,2,Southeast Asia,1,3,4,2388,eligible,Bottom,Priority C,,0.0,Not funded
+STU000131,934,1299,7500,0,0,2233,Master's,Full-time,F,2.87,Good,2,Southeast Asia,0,1,0,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000132,0,240,4100,2453,0,1993,Bachelor's,Part-time,B,2.58,Good,2,Latin America,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000133,589,300,1670,929,0,1818,Master's,Full-time,C,2.58,Good,2,Middle East/North Africa,1,4,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000134,1630,190,980,0,3420,1820,Bachelor's,Full-time,B,2.0,At Risk,1,Middle East/North Africa,0,1,4,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000135,0,390,8860,2175,9923,2072,Master's,Part-time,C,3.19,Good,3,Eastern Europe,0,0,2,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000136,0,330,5300,2151,0,1690,Bachelor's,Part-time,B,2.27,At Risk,2,Middle East/North Africa,0,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000138,1814,310,1180,0,0,2124,Bachelor's,Full-time,B,2.15,At Risk,2,Southeast Asia,0,0,5,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000139,1497,140,490,288,12045,1925,Bachelor's,Full-time,B,2.84,Good,1,South Asia,0,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000140,1223,200,1090,690,0,2113,Bachelor's,Full-time,B,3.33,Good,1,South Asia,1,1,1,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000141,774,706,4200,533,7794,2013,Bachelor's,Full-time,C,3.36,Good,1,South Asia,0,0,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000143,0,1760,9500,431,0,2172,Doctoral,Full-time,C,3.08,Good,3,Eastern Europe,1,1,3,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000144,903,180,1080,1183,1078,2266,Master's,Full-time,B,3.7,Good,1,Sub-Saharan Africa,0,3,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000145,1449,280,1090,0,0,1729,Master's,Full-time,B,2.99,Good,1,Middle East/North Africa,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000146,1631,220,1030,0,0,1851,Bachelor's,Full-time,B,2.46,At Risk,1,South Asia,1,1,5,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000148,0,400,5000,2239,7734,2263,Bachelor's,Part-time,C,2.38,At Risk,2,Latin America,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000149,995,610,3580,670,0,2275,Bachelor's,Full-time,B,2.62,Good,3,Eastern Europe,0,1,5,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000150,1368,180,1020,273,0,1821,Bachelor's,Full-time,B,3.06,Good,1,Sub-Saharan Africa,1,3,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000151,740,140,4200,1331,2137,2211,Bachelor's,Part-time,F,2.28,At Risk,1,South Asia,1,5,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000152,1450,90,530,398,0,1938,Master's,Full-time,C,2.87,Good,1,South Asia,1,3,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000153,1114,670,2590,255,10484,2039,Bachelor's,Full-time,B,2.37,At Risk,3,Eastern Europe,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000154,0,1260,5000,1149,0,2229,Master's,Full-time,B,3.42,Good,2,Middle East/North Africa,0,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000155,1332,150,890,1114,1035,2596,Master's,Full-time,B,2.96,Good,1,South Asia,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000156,0,360,4200,2474,6278,2279,Bachelor's,Part-time,C,2.16,At Risk,2,Middle East/North Africa,1,2,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000157,126,120,1650,2029,0,2275,Bachelor's,Part-time,C,3.14,Good,1,Sub-Saharan Africa,0,1,2,1512,eligible,Bottom,Priority C,,0.0,Not funded
+STU000158,0,90,1240,1885,0,1733,Bachelor's,Part-time,C,2.0,At Risk,1,South Asia,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000160,1901,220,770,0,6608,2121,Bachelor's,Full-time,B,2.4,At Risk,1,Sub-Saharan Africa,0,0,1,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000161,1437,290,1260,0,14136,1727,Bachelor's,Full-time,B,2.0,At Risk,1,Middle East/North Africa,0,1,4,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000162,1252,210,810,259,14890,1721,Master's,Full-time,B,3.44,Good,1,Sub-Saharan Africa,1,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000163,1651,360,1910,0,0,2011,Bachelor's,Full-time,Pending,2.78,Good,2,Southeast Asia,0,2,2,8000,"eligible, conditional on pending permit",Top,Priority A,,0.0,Not funded
+STU000164,1569,460,1640,508,2081,2537,Doctoral,Full-time,B,3.14,Good,2,Southeast Asia,0,2,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000166,1161,260,1270,804,0,2225,Doctoral,Full-time,B,3.3,Good,3,Western Europe,1,2,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000167,1684,190,1250,0,11628,1874,Bachelor's,Full-time,B,2.93,Good,2,Southeast Asia,1,2,2,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000168,1332,550,2050,767,0,2649,Master's,Full-time,B,2.7,Good,3,Eastern Europe,0,0,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000169,0,400,4000,1997,11276,1819,Bachelor's,Part-time,B,3.11,Good,2,Latin America,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000170,0,220,930,2001,0,2216,Bachelor's,Part-time,C,2.69,Good,1,Sub-Saharan Africa,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000172,1359,980,3650,0,0,2339,Doctoral,Full-time,B,3.29,Good,2,Middle East/North Africa,0,1,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000173,1210,180,970,633,0,2023,Bachelor's,Full-time,B,2.29,At Risk,3,Western Europe,1,2,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000175,0,900,5000,1555,0,2088,Bachelor's,Part-time,B,2.43,At Risk,3,Eastern Europe,0,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000176,821,300,1140,1142,0,2263,Master's,Full-time,B,3.18,Good,3,Eastern Europe,1,2,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000177,0,940,4370,770,4347,1502,Bachelor's,Full-time,B,2.69,Good,3,Eastern Europe,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000178,0,370,1620,1798,8549,1860,Bachelor's,Part-time,C,2.77,Good,2,Middle East/North Africa,0,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000179,1613,70,340,710,5884,2393,Master's,Full-time,B,3.61,Good,1,South Asia,1,3,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000181,442,1378,5000,330,0,2150,Doctoral,Full-time,C,3.34,Good,2,Southeast Asia,0,0,2,5000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000182,908,110,550,889,0,1907,Master's,Full-time,B,2.92,Good,1,South Asia,1,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000183,0,930,5700,1333,3221,2001,Bachelor's,Part-time,B,3.16,Good,2,Middle East/North Africa,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000184,1071,200,720,837,11928,2108,Bachelor's,Full-time,B,2.95,Good,1,South Asia,1,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000185,452,210,880,1423,0,2085,Bachelor's,Part-time,F,2.15,At Risk,1,Sub-Saharan Africa,0,3,5,5424,eligible,Bottom,Priority C,,0.0,Not funded
+STU000186,0,380,5000,1651,6459,1753,Master's,Part-time,C,3.79,Good,2,Southeast Asia,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000187,952,600,2200,602,11009,2154,Doctoral,Full-time,C,3.17,Good,2,Middle East/North Africa,0,0,1,5000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000188,34,1430,9500,753,8883,2217,Master's,Full-time,B,3.42,Good,3,Eastern Europe,0,0,2,408,eligible,Bottom,Priority C,,0.0,Not funded
+STU000189,0,350,5000,1886,10041,1637,Bachelor's,Part-time,C,2.0,At Risk,2,Southeast Asia,1,3,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000190,1548,560,2540,233,9659,2341,Bachelor's,Full-time,B,2.0,At Risk,2,Southeast Asia,0,1,5,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000191,0,200,6820,2591,0,1763,Master's,Part-time,B,3.04,Good,3,Eastern Europe,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000192,974,250,1250,1026,0,2250,Master's,Full-time,B,3.1,Good,1,Middle East/North Africa,1,2,5,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000193,161,70,680,2039,0,2270,Master's,Part-time,F,2.66,Good,1,South Asia,0,2,1,1932,eligible,Bottom,Priority C,,0.0,Not funded
+STU000194,1364,690,2300,0,14273,2054,Doctoral,Full-time,C,3.48,Good,2,Latin America,0,2,1,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000195,1218,140,770,1006,0,2364,Master's,Full-time,B,3.94,Good,1,South Asia,0,0,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000196,0,1424,5000,765,0,1980,Doctoral,Full-time,B,2.83,Good,2,Southeast Asia,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000197,742,150,870,1140,0,2032,Bachelor's,Full-time,B,3.09,Good,1,South Asia,1,3,5,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000199,1170,190,870,448,0,1808,Master's,Full-time,B,3.46,Good,1,Sub-Saharan Africa,1,2,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000200,0,1584,5000,543,5884,1924,Bachelor's,Full-time,B,3.27,Good,3,Western Europe,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000201,1198,460,1580,0,11599,1658,Bachelor's,Full-time,B,3.08,Good,2,Middle East/North Africa,1,2,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000202,1593,350,1310,0,0,1943,Master's,Full-time,B,2.93,Good,2,Southeast Asia,1,1,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000203,1363,180,950,618,0,2161,Bachelor's,Full-time,B,2.16,At Risk,1,Sub-Saharan Africa,1,2,5,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000204,1339,150,670,1004,0,2493,Master's,Full-time,Pending,2.87,Good,1,Middle East/North Africa,1,4,3,6500,"eligible, conditional on pending permit",Middle,Priority B,,0.0,Not funded
+STU000205,1456,190,1240,600,6900,2246,Master's,Full-time,Pending,3.15,Good,1,Middle East/North Africa,1,5,4,6500,"eligible, conditional on pending permit",Middle,Priority B,,0.0,Not funded
+STU000207,0,150,5000,2219,14762,1405,Bachelor's,Part-time,B,2.98,Good,2,Middle East/North Africa,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000208,0,240,9500,2353,0,1730,Master's,Part-time,B,3.5,Good,3,Eastern Europe,0,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000209,886,340,1530,228,3648,1454,Bachelor's,Full-time,B,2.89,Good,2,Southeast Asia,0,1,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000210,1011,1220,4540,304,0,2535,Master's,Full-time,B,2.7,Good,3,Eastern Europe,1,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000211,1408,180,890,406,11019,1994,Master's,Full-time,B,3.49,Good,1,Sub-Saharan Africa,0,2,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000213,0,380,9500,2041,0,1974,Bachelor's,Part-time,C,2.43,At Risk,3,Eastern Europe,0,1,1,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000215,1591,240,940,372,1644,2203,Master's,Full-time,B,3.35,Good,1,South Asia,0,1,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000216,1032,210,1110,1185,8461,2427,Bachelor's,Full-time,B,2.75,Good,2,Middle East/North Africa,1,1,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000217,1114,330,1350,654,0,2098,Master's,Full-time,B,3.31,Good,2,Southeast Asia,1,1,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000218,253,720,4630,932,5849,1905,Doctoral,Full-time,B,3.28,Good,3,Eastern Europe,0,0,2,3036,eligible,Bottom,Priority C,,0.0,Not funded
+STU000219,0,390,4700,2152,6859,1935,Bachelor's,Part-time,B,2.28,At Risk,3,Eastern Europe,0,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000220,1114,640,2730,0,0,1754,Master's,Full-time,B,2.82,Good,2,Southeast Asia,1,1,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000221,381,300,4300,1613,13369,2294,Master's,Part-time,C,3.02,Good,1,South Asia,0,2,2,4572,eligible,Bottom,Priority C,,0.0,Not funded
+STU000223,1689,360,1250,411,9715,2460,Doctoral,Full-time,B,3.55,Good,2,Southeast Asia,0,1,2,5000,eligible,Top,Priority A,,0.0,Not funded
+STU000224,901,340,1930,946,0,2187,Bachelor's,Full-time,B,2.0,At Risk,2,Latin America,0,0,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000225,1342,331,1150,300,0,1973,Bachelor's,Full-time,B,2.84,Good,1,Sub-Saharan Africa,0,0,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000226,1333,287,1190,562,0,2182,Master's,Full-time,B,2.53,Good,1,Sub-Saharan Africa,0,0,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000228,266,250,950,1114,0,1630,Bachelor's,Full-time,B,2.0,At Risk,1,South Asia,1,2,5,3192,eligible,Bottom,Priority C,,0.0,Not funded
+STU000229,1169,170,930,491,7398,1830,Master's,Full-time,B,3.29,Good,1,Sub-Saharan Africa,0,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000230,1004,992,6000,284,0,2280,Bachelor's,Full-time,B,3.3,Good,2,Middle East/North Africa,1,1,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000231,1154,1110,4020,0,6456,2264,Master's,Full-time,B,3.01,Good,2,Southeast Asia,1,2,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000232,1731,370,1480,0,0,2101,Bachelor's,Full-time,Pending,2.34,At Risk,1,Middle East/North Africa,1,4,2,8000,"eligible, conditional on pending permit",Top,Priority B,,0.0,Not funded
+STU000233,0,160,5000,2135,558,1788,Bachelor's,Part-time,B,2.79,Good,2,Middle East/North Africa,1,2,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000234,607,440,1610,826,1438,1873,Bachelor's,Full-time,B,2.47,At Risk,2,Middle East/North Africa,0,1,2,7284,eligible,Bottom,Priority C,,0.0,Not funded
+STU000235,1547,289,1110,0,8536,1836,Bachelor's,Full-time,B,3.11,Good,3,Western Europe,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000236,470,814,2750,977,0,2261,Master's,Full-time,B,3.43,Good,2,Latin America,1,3,3,5640,eligible,Bottom,Priority C,,0.0,Not funded
+STU000237,0,1628,5600,635,0,2211,Doctoral,Full-time,C,3.18,Good,2,Southeast Asia,1,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000238,1678,150,910,0,11214,1828,Bachelor's,Full-time,B,2.66,Good,1,Sub-Saharan Africa,1,1,3,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000239,1866,120,660,226,0,2212,Bachelor's,Full-time,Pending,2.0,At Risk,1,Sub-Saharan Africa,0,3,2,8000,"eligible, conditional on pending permit",Top,Priority B,,0.0,Not funded
+STU000240,468,1534,9000,0,0,2002,Master's,Full-time,C,2.83,Good,2,Southeast Asia,0,0,1,5616,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000241,364,90,510,811,0,1265,Bachelor's,Full-time,B,3.38,Good,1,Sub-Saharan Africa,0,1,2,4368,eligible,Bottom,Priority C,,0.0,Not funded
+STU000242,251,230,860,1500,0,1981,Master's,Part-time,C,3.49,Good,1,South Asia,0,0,3,3012,eligible,Bottom,Priority C,,0.0,Not funded
+STU000243,0,420,9500,1544,9945,1763,Bachelor's,Part-time,C,3.5,Good,3,Eastern Europe,0,0,1,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000244,0,380,9020,2169,3092,1607,Bachelor's,Part-time,B,3.81,Good,3,Eastern Europe,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000245,1539,370,1820,458,2822,2367,Master's,Full-time,B,2.64,Good,1,South Asia,0,1,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000246,676,150,880,1118,0,1944,Bachelor's,Full-time,B,3.18,Good,1,Sub-Saharan Africa,0,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000248,0,1330,9500,1012,0,2189,Master's,Full-time,B,3.41,Good,3,Eastern Europe,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000250,186,190,900,1708,2855,2084,Master's,Part-time,C,2.86,Good,1,Sub-Saharan Africa,0,2,3,2232,eligible,Bottom,Priority C,,0.0,Not funded
+STU000251,1952,230,1210,0,0,2182,Bachelor's,Full-time,B,2.16,At Risk,2,Middle East/North Africa,1,1,3,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000252,0,710,7810,1700,13510,2090,Bachelor's,Part-time,B,2.53,Good,3,Eastern Europe,0,0,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000253,0,700,7600,1793,657,2226,Bachelor's,Part-time,C,2.39,At Risk,2,Middle East/North Africa,1,1,3,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000254,0,640,8600,1698,0,2184,Bachelor's,Part-time,C,2.41,At Risk,3,Eastern Europe,0,1,3,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000255,916,280,1280,1123,0,2319,Doctoral,Full-time,B,3.04,Good,2,Southeast Asia,1,4,2,5000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000257,1694,209,730,0,8050,1903,Bachelor's,Full-time,B,2.38,At Risk,1,Sub-Saharan Africa,1,3,4,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000258,1441,850,4970,0,3870,2291,Master's,Full-time,B,2.93,Good,2,Southeast Asia,1,2,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000260,0,420,5860,1787,0,1845,Master's,Part-time,B,2.61,Good,3,Eastern Europe,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000261,1629,250,870,0,0,1879,Bachelor's,Full-time,Pending,3.1,Good,1,South Asia,1,4,2,8000,"eligible, conditional on pending permit",Middle,Priority B,,0.0,Not funded
+STU000262,1692,200,900,0,0,1892,Bachelor's,Full-time,B,3.29,Good,1,Sub-Saharan Africa,0,1,2,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000263,0,2738,9500,0,0,2378,Doctoral,Full-time,S,3.07,Good,3,Eastern Europe,0,4,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000264,0,160,5000,2443,0,1689,Master's,Part-time,F,3.13,Good,2,Middle East/North Africa,1,3,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000266,964,340,1550,980,6954,2284,Bachelor's,Full-time,B,2.0,At Risk,3,Western Europe,1,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000267,108,756,4880,915,10943,1779,Bachelor's,Full-time,B,3.18,Good,2,Southeast Asia,0,0,2,1296,eligible,Bottom,Priority C,,0.0,Not funded
+STU000268,1064,1090,3880,330,2432,2484,Master's,Full-time,B,3.07,Good,3,Eastern Europe,1,1,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000269,1681,210,1250,274,0,2165,Bachelor's,Full-time,B,2.2,At Risk,2,Latin America,1,1,3,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000271,1184,200,1080,869,0,2253,Doctoral,Full-time,B,2.79,Good,3,Western Europe,1,1,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000272,1971,510,1860,0,5499,2481,Master's,Full-time,Pending,3.02,Good,2,Latin America,0,1,0,6500,"eligible, conditional on pending permit",Top,Priority B,,0.0,Not funded
+STU000273,864,410,1530,784,4993,2058,Bachelor's,Full-time,C,2.4,At Risk,1,Middle East/North Africa,0,1,5,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000275,1679,540,3070,0,0,2219,Master's,Full-time,B,2.74,Good,3,Eastern Europe,1,2,4,6500,eligible,Top,Priority A,,0.0,Not funded
+STU000276,0,540,9500,1817,0,2042,Master's,Part-time,S,3.12,Good,3,Eastern Europe,1,3,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000277,1685,330,1610,0,7358,2015,Master's,Full-time,B,2.98,Good,2,Southeast Asia,0,1,0,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000279,1253,858,1770,0,0,2111,Master's,Full-time,B,3.19,Good,3,Eastern Europe,0,1,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000280,318,1823,3970,0,0,2141,Master's,Full-time,B,3.63,Good,3,Eastern Europe,0,2,2,3816,eligible,Bottom,Priority C,,0.0,Not funded
+STU000281,1147,313,1050,0,0,1460,Bachelor's,Full-time,B,2.27,At Risk,1,South Asia,1,1,1,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000282,859,129,470,719,0,1707,Bachelor's,Full-time,B,2.7,Good,1,South Asia,1,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000283,1086,200,1010,935,3144,2221,Master's,Full-time,B,3.21,Good,1,Sub-Saharan Africa,1,2,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000284,793,500,1620,820,0,2113,Master's,Full-time,C,3.62,Good,1,Sub-Saharan Africa,1,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000285,1105,185,680,373,0,1663,Bachelor's,Full-time,B,2.78,Good,1,Sub-Saharan Africa,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000286,0,1200,9500,1090,7449,2039,Doctoral,Full-time,B,3.26,Good,3,Eastern Europe,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000287,772,240,1110,626,1598,1638,Bachelor's,Full-time,B,2.22,At Risk,1,South Asia,1,2,5,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000288,297,380,7000,1589,0,2266,Bachelor's,Part-time,C,2.5,Good,2,Middle East/North Africa,0,1,3,3564,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000289,2068,130,570,0,0,2198,Master's,Full-time,B,2.48,At Risk,1,Sub-Saharan Africa,0,1,1,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000290,1399,210,890,912,10744,2521,Doctoral,Full-time,B,3.73,Good,1,South Asia,0,0,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000292,1190,70,490,1098,0,2358,Bachelor's,Full-time,B,2.28,At Risk,1,Sub-Saharan Africa,1,3,4,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000293,0,1796,5000,0,8753,1689,Bachelor's,Full-time,B,3.27,Good,2,Middle East/North Africa,1,3,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000294,1482,230,1300,645,14165,2357,Bachelor's,Full-time,B,2.77,Good,2,Southeast Asia,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000295,580,550,2080,941,9598,2071,Master's,Full-time,B,2.72,Good,2,Latin America,1,1,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000297,0,2360,9500,0,0,2012,Master's,Full-time,C,3.3,Good,3,Eastern Europe,0,0,4,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000298,818,470,2210,657,1083,1945,Bachelor's,Full-time,B,2.6,Good,2,Latin America,0,2,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000299,1554,340,1170,0,0,1894,Bachelor's,Full-time,B,2.97,Good,2,Southeast Asia,0,1,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000300,119,430,3000,1723,0,2272,Bachelor's,Part-time,C,2.0,At Risk,1,South Asia,0,1,2,1428,eligible,Bottom,Priority C,,0.0,Not funded
+STU000301,284,150,680,983,0,1417,Bachelor's,Full-time,B,2.77,Good,1,South Asia,1,2,2,3408,eligible,Bottom,Priority C,,0.0,Not funded
+STU000302,0,160,4200,2164,0,1962,Master's,Part-time,B,3.13,Good,2,Southeast Asia,0,0,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000303,984,180,760,929,5300,2093,Master's,Full-time,B,3.86,Good,1,Sub-Saharan Africa,1,2,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000304,0,1663,5800,933,0,2431,Master's,Full-time,C,3.36,Good,3,Eastern Europe,1,3,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000305,0,300,9500,2650,0,1852,Master's,Part-time,B,3.37,Good,3,Eastern Europe,0,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000306,657,170,990,1169,5567,1996,Master's,Full-time,B,2.0,At Risk,1,Middle East/North Africa,0,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000307,1623,460,1930,0,0,2083,Doctoral,Full-time,B,2.77,Good,1,Middle East/North Africa,1,2,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000308,0,370,5000,2028,0,2134,Bachelor's,Part-time,C,2.06,At Risk,2,Middle East/North Africa,0,0,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000309,0,330,5480,1600,5503,1610,Bachelor's,Part-time,B,3.27,Good,3,Eastern Europe,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000311,1700,530,3370,337,13201,2567,Doctoral,Full-time,B,3.35,Good,3,Eastern Europe,1,2,3,5000,eligible,Top,Priority A,,0.0,Not funded
+STU000312,0,210,3900,1802,0,1822,Bachelor's,Part-time,B,2.28,At Risk,3,Eastern Europe,1,3,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000313,0,890,6700,1619,0,2368,Bachelor's,Part-time,S,2.35,At Risk,3,Eastern Europe,1,5,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000314,604,60,330,1380,0,2044,Master's,Part-time,F,3.71,Good,1,Middle East/North Africa,1,5,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000315,1361,150,520,0,13663,1511,Bachelor's,Full-time,B,2.53,Good,1,Sub-Saharan Africa,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000316,0,1970,9500,0,0,1878,Bachelor's,Full-time,C,3.02,Good,3,Eastern Europe,1,1,2,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000317,1225,310,1090,687,0,2222,Bachelor's,Full-time,B,2.08,At Risk,1,Sub-Saharan Africa,1,1,5,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000318,0,190,940,2697,0,2009,Master's,Part-time,C,3.13,Good,1,South Asia,1,4,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000321,1202,250,1000,398,0,1850,Bachelor's,Full-time,B,2.78,Good,1,Sub-Saharan Africa,1,2,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000322,1644,290,1170,0,0,1934,Master's,Full-time,B,3.41,Good,1,Sub-Saharan Africa,0,0,0,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000323,575,420,2100,1147,10357,2142,Bachelor's,Full-time,B,3.63,Good,1,Middle East/North Africa,0,0,1,6900,eligible,Bottom,Priority C,,0.0,Not funded
+STU000325,1689,190,1270,718,0,2597,Master's,Full-time,B,3.08,Good,1,Sub-Saharan Africa,1,3,2,6500,eligible,Top,Priority A,,0.0,Not funded
+STU000326,0,300,5000,1834,4492,1665,Bachelor's,Part-time,B,2.02,At Risk,2,Southeast Asia,0,0,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000327,1389,860,4290,556,0,2805,Master's,Full-time,B,3.16,Good,2,Southeast Asia,1,2,4,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000328,1539,110,740,752,0,2401,Master's,Full-time,B,2.74,Good,1,South Asia,0,0,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000330,1181,650,3660,239,0,2070,Doctoral,Full-time,B,3.02,Good,3,Eastern Europe,1,3,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000331,0,360,5420,1550,0,1402,Bachelor's,Part-time,C,2.69,Good,3,Eastern Europe,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000332,0,170,3800,2332,6263,1896,Bachelor's,Part-time,B,3.3,Good,2,Latin America,0,0,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000333,1474,110,450,836,7427,2420,Master's,Full-time,B,3.53,Good,1,South Asia,1,2,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000334,0,710,9500,1693,0,2117,Master's,Part-time,C,2.22,At Risk,3,Eastern Europe,1,5,5,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000336,0,350,5000,2369,0,2404,Master's,Part-time,B,3.24,Good,2,Southeast Asia,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000337,0,2388,9500,0,14813,2039,Bachelor's,Full-time,B,2.38,At Risk,3,Eastern Europe,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000338,0,390,6090,1936,5685,1644,Bachelor's,Part-time,B,3.0,Good,3,Eastern Europe,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000340,1208,80,530,1018,10171,2306,Doctoral,Full-time,C,3.03,Good,1,Middle East/North Africa,1,1,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000341,1245,160,900,550,0,1955,Doctoral,Full-time,B,3.24,Good,1,South Asia,1,2,5,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000342,0,340,3400,1463,0,1657,Bachelor's,Part-time,C,3.64,Good,1,South Asia,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000343,998,653,4500,0,14403,1651,Bachelor's,Full-time,B,2.5,Good,2,Middle East/North Africa,1,2,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000344,0,1030,7600,944,0,1783,Bachelor's,Full-time,B,3.03,Good,3,Eastern Europe,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000345,1180,70,360,353,855,1603,Bachelor's,Full-time,B,2.97,Good,1,South Asia,1,1,5,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000346,810,231,1000,1193,7824,2234,Master's,Full-time,B,3.04,Good,1,South Asia,0,0,1,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000347,315,80,790,1798,13114,2193,Bachelor's,Part-time,F,2.36,At Risk,1,South Asia,1,1,2,3780,eligible,Bottom,Priority C,,0.0,Not funded
+STU000349,0,1210,8600,723,0,1419,Bachelor's,Full-time,B,2.0,At Risk,3,Eastern Europe,1,3,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000350,1468,240,960,530,0,2238,Bachelor's,Full-time,B,3.2,Good,1,South Asia,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000351,2209,120,460,0,10385,2329,Master's,Full-time,B,2.81,Good,1,South Asia,1,3,0,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000352,0,1640,5000,703,0,2091,Bachelor's,Full-time,B,3.43,Good,2,Middle East/North Africa,1,5,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000354,0,380,5800,2171,0,2009,Bachelor's,Part-time,B,2.39,At Risk,2,Middle East/North Africa,1,2,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000355,470,730,3020,1140,6097,2340,Master's,Full-time,B,2.92,Good,3,Eastern Europe,0,0,2,5640,eligible,Bottom,Priority C,,0.0,Not funded
+STU000357,2331,80,280,0,0,2411,Bachelor's,Full-time,C,2.93,Good,1,Sub-Saharan Africa,1,1,0,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000358,1253,290,1120,891,8795,2434,Master's,Full-time,B,2.64,Good,2,Southeast Asia,1,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000359,0,380,5000,2175,2780,1523,Bachelor's,Part-time,B,2.39,At Risk,2,Middle East/North Africa,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000360,478,1541,7800,268,7270,2287,Bachelor's,Full-time,B,2.98,Good,2,Southeast Asia,1,2,3,5736,eligible,Bottom,Priority C,,0.0,Not funded
+STU000361,1663,160,550,452,0,2275,Bachelor's,Full-time,F,2.15,At Risk,1,Middle East/North Africa,0,1,2,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000363,1561,290,1550,634,0,2485,Doctoral,Full-time,B,3.35,Good,2,Southeast Asia,0,0,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000364,1308,400,1350,393,0,2101,Master's,Full-time,B,2.48,At Risk,1,South Asia,0,0,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000365,1170,740,2710,473,4372,2383,Master's,Full-time,B,3.15,Good,3,Eastern Europe,1,2,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000367,1637,450,1750,220,0,2307,Doctoral,Full-time,B,3.52,Good,2,Southeast Asia,1,2,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000368,0,810,6200,1092,0,1728,Bachelor's,Full-time,B,2.26,At Risk,2,Middle East/North Africa,0,0,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000369,1724,170,870,249,2667,2143,Bachelor's,Full-time,B,2.41,At Risk,2,Middle East/North Africa,0,1,4,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000370,1462,175,1060,576,7256,2213,Master's,Full-time,B,3.13,Good,1,Sub-Saharan Africa,1,4,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000371,1209,1230,4790,0,5316,2439,Doctoral,Full-time,B,3.15,Good,3,Eastern Europe,1,2,3,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000372,67,70,400,2068,0,2205,Bachelor's,Part-time,F,3.42,Good,1,South Asia,1,2,4,804,eligible,Bottom,Priority C,,0.0,Not funded
+STU000373,56,290,11500,1545,0,1891,Bachelor's,Part-time,C,3.12,Good,2,Middle East/North Africa,0,0,1,672,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000374,1764,310,1130,0,0,2074,Master's,Full-time,B,2.15,At Risk,1,Sub-Saharan Africa,1,2,3,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000376,0,380,5300,2598,0,2160,Master's,Part-time,B,3.54,Good,2,Middle East/North Africa,0,0,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000377,1645,230,800,325,0,2200,Bachelor's,Full-time,Pending,3.07,Good,1,Sub-Saharan Africa,1,5,3,8000,"eligible, conditional on pending permit",Middle,Priority B,,0.0,Not funded
+STU000378,540,130,580,1453,1129,2123,Bachelor's,Part-time,F,2.66,Good,1,South Asia,1,3,3,6480,eligible,Bottom,Priority C,,0.0,Not funded
+STU000379,0,760,3850,1553,0,2045,Bachelor's,Part-time,B,2.59,Good,3,Eastern Europe,0,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000380,1682,180,770,0,0,1862,Bachelor's,Full-time,B,2.95,Good,1,South Asia,1,2,4,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000382,2108,470,3120,0,0,2578,Bachelor's,Full-time,B,2.07,At Risk,3,Eastern Europe,1,3,5,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000384,919,270,1110,1128,0,2317,Master's,Full-time,B,2.56,Good,2,Southeast Asia,1,2,5,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000385,0,160,1150,2740,0,1916,Bachelor's,Part-time,C,3.02,Good,2,Southeast Asia,0,0,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000386,242,160,980,2038,3943,2440,Master's,Part-time,C,3.61,Good,1,South Asia,1,3,1,2904,eligible,Bottom,Priority C,,0.0,Not funded
+STU000387,1046,210,750,486,0,1742,Bachelor's,Full-time,C,2.1,At Risk,1,South Asia,1,1,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000388,263,160,1240,2173,0,2596,Master's,Part-time,C,2.64,Good,1,Sub-Saharan Africa,1,3,2,3156,eligible,Bottom,Priority C,,0.0,Not funded
+STU000390,0,130,880,2502,0,2016,Bachelor's,Part-time,B,3.74,Good,1,Middle East/North Africa,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000392,0,530,5900,1610,0,2010,Master's,Part-time,B,3.15,Good,2,Middle East/North Africa,1,2,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000393,989,390,1580,382,0,1761,Bachelor's,Full-time,B,2.87,Good,2,Southeast Asia,0,0,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000395,1569,225,750,352,0,2146,Master's,Full-time,F,3.53,Good,1,South Asia,1,3,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000396,1588,260,970,587,0,2435,Master's,Full-time,B,2.49,At Risk,1,South Asia,1,2,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000397,0,340,6520,2062,14679,2162,Master's,Part-time,B,2.98,Good,3,Eastern Europe,1,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000398,1186,225,790,427,0,1838,Master's,Full-time,B,2.25,At Risk,1,South Asia,1,2,4,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000400,1077,210,970,1034,4032,2321,Bachelor's,Full-time,B,2.84,Good,1,Middle East/North Africa,1,3,4,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000401,94,260,7800,2118,0,2472,Bachelor's,Part-time,B,2.82,Good,2,Middle East/North Africa,0,1,3,1128,eligible,Bottom,Priority C,,0.0,Not funded
+STU000403,1370,80,410,538,848,1988,Bachelor's,Full-time,F,2.82,Good,1,Middle East/North Africa,1,4,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000404,2053,260,940,0,0,2313,Bachelor's,Full-time,B,2.24,At Risk,1,Sub-Saharan Africa,1,1,3,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000405,1572,470,1860,0,0,2042,Master's,Full-time,B,2.81,Good,1,South Asia,0,0,5,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000406,1541,60,390,267,0,1868,Bachelor's,Full-time,B,3.47,Good,3,Western Europe,1,2,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000407,958,1170,4130,0,0,2128,Master's,Full-time,B,3.03,Good,3,Eastern Europe,0,0,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000408,0,270,6680,2155,8622,1964,Master's,Part-time,B,3.43,Good,3,Eastern Europe,1,4,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000410,0,250,6220,1804,0,1547,Bachelor's,Part-time,B,3.18,Good,3,Eastern Europe,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000411,2162,180,1010,0,0,2342,Master's,Full-time,B,3.17,Good,1,South Asia,0,0,0,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000412,419,320,9000,1730,0,2469,Master's,Part-time,C,3.27,Good,1,South Asia,0,0,2,5028,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000414,1899,236,930,0,0,2135,Bachelor's,Full-time,B,2.12,At Risk,1,Sub-Saharan Africa,1,2,1,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000417,0,390,5200,1888,0,1521,Bachelor's,Part-time,B,2.64,Good,2,Southeast Asia,1,3,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000418,0,210,5900,2045,4373,1956,Bachelor's,Part-time,F,3.27,Good,1,South Asia,1,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000419,0,530,4800,1548,1640,1832,Bachelor's,Part-time,B,3.07,Good,3,Eastern Europe,0,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000420,1014,230,1070,964,0,2208,Master's,Full-time,B,2.88,Good,1,Sub-Saharan Africa,0,2,4,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000423,0,250,5200,2382,0,1944,Bachelor's,Part-time,B,3.25,Good,2,Latin America,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000424,566,80,490,1540,0,2186,Bachelor's,Part-time,C,2.0,At Risk,1,Middle East/North Africa,0,0,2,6792,eligible,Bottom,Priority C,,0.0,Not funded
+STU000425,1333,260,1310,820,0,2413,Bachelor's,Full-time,B,3.33,Good,2,Southeast Asia,1,1,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000426,1014,300,1280,534,5197,1848,Master's,Full-time,B,2.93,Good,2,Middle East/North Africa,1,2,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000427,1539,230,1080,227,0,1996,Bachelor's,Full-time,B,3.63,Good,2,Southeast Asia,1,4,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000428,1197,280,1200,327,0,1804,Bachelor's,Full-time,B,3.24,Good,2,Southeast Asia,0,0,1,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000429,1225,220,750,608,0,2053,Master's,Full-time,B,3.11,Good,1,Middle East/North Africa,1,3,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000430,2241,270,1030,0,7478,2511,Bachelor's,Full-time,B,2.37,At Risk,1,South Asia,1,4,2,8000,eligible,Top,Priority B,,0.0,Not funded
+STU000431,553,890,4170,269,10142,1712,Bachelor's,Full-time,B,2.46,At Risk,3,Eastern Europe,1,2,2,6636,eligible,Bottom,Priority C,,0.0,Not funded
+STU000432,1403,570,1930,0,0,1973,Master's,Full-time,B,3.23,Good,3,Eastern Europe,0,1,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000433,0,170,6500,2569,1399,1753,Bachelor's,Part-time,C,2.94,Good,1,Sub-Saharan Africa,1,3,3,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000434,997,80,350,1101,0,2178,Doctoral,Full-time,B,3.32,Good,1,Middle East/North Africa,1,3,4,5000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000435,0,260,1540,2494,0,2223,Master's,Part-time,B,2.55,Good,1,Middle East/North Africa,0,1,1,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000436,1468,310,1050,472,0,2250,Master's,Full-time,B,3.29,Good,1,South Asia,0,0,1,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000437,422,1628,5000,0,0,2050,Bachelor's,Full-time,B,2.69,Good,2,Southeast Asia,1,2,1,5064,eligible,Bottom,Priority C,,0.0,Not funded
+STU000438,1316,1391,4300,0,8950,2707,Master's,Full-time,B,2.37,At Risk,3,Eastern Europe,0,2,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000439,1197,130,540,802,0,2129,Master's,Full-time,B,3.28,Good,3,Western Europe,1,1,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000440,553,320,1240,1194,1269,2067,Bachelor's,Full-time,C,2.94,Good,2,Southeast Asia,0,0,2,6636,eligible,Bottom,Priority C,,0.0,Not funded
+STU000441,1276,60,400,847,0,2183,Master's,Full-time,B,2.65,Good,1,South Asia,0,1,2,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000442,1592,370,1480,605,0,2567,Doctoral,Full-time,B,2.67,Good,2,Southeast Asia,0,0,2,5000,eligible,Middle,Priority B,,0.0,Not funded
+STU000443,1720,780,3840,0,4837,2500,Bachelor's,Full-time,B,3.42,Good,3,Eastern Europe,0,0,2,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000444,1005,1170,5030,500,0,2675,Master's,Full-time,B,3.55,Good,3,Eastern Europe,1,1,2,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000445,185,380,3700,1425,0,1990,Bachelor's,Part-time,B,3.3,Good,1,South Asia,0,0,3,2220,eligible,Bottom,Priority C,,0.0,Not funded
+STU000446,1718,495,3900,0,0,2213,Bachelor's,Full-time,F,2.73,Good,1,South Asia,1,3,3,8000,eligible,Top,Priority A,,0.0,Not funded
+STU000447,0,360,5000,2277,13884,1886,Bachelor's,Part-time,C,2.27,At Risk,2,Southeast Asia,0,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000450,740,668,4000,850,9169,2258,Bachelor's,Full-time,B,3.23,Good,1,Middle East/North Africa,0,2,3,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000451,0,790,4800,1180,0,1625,Bachelor's,Full-time,B,3.74,Good,2,Middle East/North Africa,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000452,0,380,5000,2219,13271,1638,Master's,Part-time,B,2.01,At Risk,2,Latin America,1,5,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000453,0,220,3000,1803,0,1883,Master's,Part-time,B,3.47,Good,1,Middle East/North Africa,1,2,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000454,722,330,1240,1029,0,2081,Master's,Full-time,B,2.61,Good,2,Middle East/North Africa,0,0,3,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000455,23,1978,4900,0,5944,2001,Doctoral,Full-time,B,3.61,Good,2,Southeast Asia,1,4,2,276,eligible,Bottom,Priority C,,0.0,Not funded
+STU000456,0,2390,5660,0,0,2141,Master's,Full-time,S,2.42,At Risk,3,Eastern Europe,1,5,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000457,1575,60,250,0,13696,1635,Bachelor's,Full-time,B,3.44,Good,1,South Asia,1,1,1,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000459,1403,728,5200,0,0,2131,Master's,Full-time,C,3.55,Good,1,South Asia,0,0,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000461,46,1507,5000,623,728,2176,Bachelor's,Full-time,B,2.59,Good,2,Southeast Asia,1,2,1,552,eligible,Bottom,Priority C,,0.0,Not funded
+STU000462,0,50,230,2132,0,1590,Bachelor's,Part-time,F,3.31,Good,1,South Asia,1,3,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000463,0,1110,9500,1439,0,2371,Master's,Part-time,B,3.18,Good,3,Eastern Europe,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000464,396,190,1030,1148,3047,1734,Master's,Full-time,B,3.39,Good,1,South Asia,0,0,1,4752,eligible,Bottom,Priority C,,0.0,Not funded
+STU000465,617,1163,6800,0,0,1780,Bachelor's,Full-time,F,2.72,Good,2,Southeast Asia,1,2,4,7404,eligible,Bottom,Priority C,,0.0,Not funded
+STU000466,0,643,3000,1166,14297,1806,Master's,Full-time,B,2.68,Good,1,South Asia,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000467,1598,270,970,401,13119,2269,Bachelor's,Full-time,B,3.11,Good,1,Sub-Saharan Africa,1,2,2,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000468,0,1856,5900,815,0,2384,Doctoral,Full-time,B,3.45,Good,2,Latin America,0,0,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000469,150,120,900,1777,0,2047,Bachelor's,Part-time,C,2.7,Good,1,Sub-Saharan Africa,0,1,1,1800,eligible,Bottom,Priority C,,0.0,Not funded
+STU000470,1025,90,510,1162,0,2277,Master's,Full-time,F,3.51,Good,1,Middle East/North Africa,1,3,5,6500,eligible,Bottom,Priority C,,0.0,Not funded
+STU000471,2047,130,670,0,0,2177,Master's,Full-time,B,2.4,At Risk,1,South Asia,1,2,2,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000472,721,900,3940,0,7786,1621,Bachelor's,Full-time,B,2.95,Good,3,Eastern Europe,1,3,2,8000,eligible,Bottom,Priority C,,0.0,Not funded
+STU000473,0,250,1540,2687,0,2004,Bachelor's,Part-time,B,2.3,At Risk,2,Middle East/North Africa,0,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000474,214,1469,5200,0,6457,1683,Bachelor's,Full-time,B,3.69,Good,2,Southeast Asia,0,0,3,2568,eligible,Bottom,Priority C,,0.0,Not funded
+STU000475,0,160,5000,2161,0,2200,Bachelor's,Part-time,B,2.79,Good,2,Middle East/North Africa,0,0,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000476,0,1120,4500,1380,0,2216,Bachelor's,Part-time,B,2.13,At Risk,2,Southeast Asia,1,2,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000477,1669,230,950,0,6813,1899,Master's,Full-time,B,2.68,Good,3,Eastern Europe,0,0,1,6500,eligible,Top,Priority A,,0.0,Not funded
+STU000478,0,250,1410,1880,0,1946,Bachelor's,Part-time,C,2.34,At Risk,1,Middle East/North Africa,1,4,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000479,401,80,3000,1467,0,1948,Bachelor's,Part-time,C,2.24,At Risk,1,Middle East/North Africa,1,2,2,4812,eligible,Bottom,Priority C,,0.0,Not funded
+STU000480,627,170,900,1143,0,1940,Bachelor's,Full-time,B,3.26,Good,1,South Asia,1,1,3,7524,eligible,Bottom,Priority C,,0.0,Not funded
+STU000481,0,280,3500,2221,1311,1816,Bachelor's,Part-time,B,2.74,Good,1,South Asia,1,1,2,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000483,1483,240,900,508,5203,2231,Bachelor's,Full-time,B,2.75,Good,2,Middle East/North Africa,1,3,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000484,0,320,9500,2327,0,2351,Master's,Part-time,C,3.15,Good,3,Eastern Europe,1,1,5,0,"ineligible: Permit C with significant family resources (>= CHF 6,000/month household income)",n/a,Not funded,,0.0,Not funded
+STU000485,0,1130,4100,1325,0,2209,Bachelor's,Part-time,C,2.52,Good,3,Eastern Europe,0,0,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000486,0,600,5000,1921,14789,2368,Master's,Part-time,C,2.71,Good,2,Latin America,1,3,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000487,0,170,940,1816,11014,1458,Bachelor's,Part-time,B,2.52,Good,1,Sub-Saharan Africa,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000488,0,120,420,2222,0,2091,Bachelor's,Part-time,F,3.77,Good,1,South Asia,1,3,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000491,0,2520,6030,0,10528,2233,Bachelor's,Full-time,B,2.64,Good,3,Eastern Europe,0,0,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000492,1346,180,650,319,14667,1845,Bachelor's,Full-time,B,2.89,Good,1,Sub-Saharan Africa,1,2,3,8000,eligible,Middle,Priority B,,0.0,Not funded
+STU000493,0,140,1390,2176,11024,1960,Bachelor's,Part-time,F,3.05,Good,1,Middle East/North Africa,0,1,3,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000494,1180,591,2500,521,12570,2292,Master's,Full-time,B,3.22,Good,1,South Asia,0,0,3,6500,eligible,Middle,Priority B,,0.0,Not funded
+STU000495,0,1648,3600,827,0,2245,Doctoral,Full-time,B,3.8,Good,2,Southeast Asia,0,2,4,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000496,2202,250,1120,0,13252,2452,Master's,Full-time,B,3.71,Good,2,Middle East/North Africa,1,1,0,6500,eligible,Top,Priority B,,0.0,Not funded
+STU000497,337,60,300,1363,8787,1760,Bachelor's,Part-time,B,2.75,Good,1,Middle East/North Africa,0,1,2,4044,eligible,Bottom,Priority C,,0.0,Not funded
+STU000498,0,100,660,2222,8743,1949,Bachelor's,Part-time,C,3.54,Good,1,Sub-Saharan Africa,1,1,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
+STU000499,554,150,590,822,0,1526,Bachelor's,Full-time,Pending,2.47,At Risk,1,South Asia,1,5,2,6648,"eligible, conditional on pending permit",Bottom,Priority C,,0.0,Not funded
+STU000500,0,70,3000,2114,0,2134,Bachelor's,Part-time,C,2.75,Good,1,South Asia,1,4,5,0,not funded: no monthly shortfall,n/a,Not funded,,0.0,Not funded
