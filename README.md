@@ -38,6 +38,20 @@ Each notebook folder also has its executed **HTML report** and its result files 
 **Saving your work:** a notebook opened from GitHub is a read-only copy. Use *File → Save a copy in Drive* before you
 change it.
 
+## Part 2: comparing two allocations
+
+Each group compares its allocation with the allocation of another group. Everything for this part sits in
+[`part2_compare_allocations/`](part2_compare_allocations/), with its own README.
+
+| Notebook | Colab |
+|---|---|
+| Comparison of your allocation and the one you received | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/part2_compare_allocations/EduAll_2_compare_allocations.ipynb) |
+| Example run on two simulated allocations (Navy and Sky) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/part2_compare_allocations/example/EduAll_2_compare_allocations_example_run.ipynb) |
+
+The comparison notebook works in your Google Drive: it creates `MyDrive/EduAll_part2`, downloads its four data files,
+and asks you to upload your group's allocation and the one you received. Save a copy in Drive first
+(*File → Save a copy in Drive*), so the executed notebook stays with your results.
+
 ## How the notebooks find the data on Colab
 
 Every notebook starts with this cell. On Colab, it downloads this repository and moves into the notebook's folder,
@@ -113,6 +127,7 @@ data/
 free_generation/                          notebooks written freely, without a protocol
   exploration_groupwork/                  data exploration notebook
   traditionalAI_groupwork/                clustering and decision-tree notebooks
+part2_compare_allocations/                part 2: the comparison notebook, its data and the example run
 protocols/agentic_mimicking_protocols/    notebooks that follow the course protocols
   DataExploration/                        exploration reports
   TraditionalML/1_RF_proximity ... 5_Survival/   five traditional machine-learning protocols
