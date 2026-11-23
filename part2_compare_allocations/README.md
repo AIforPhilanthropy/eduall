@@ -30,7 +30,8 @@ A second run finds everything in the folder and goes straight to the analyses.
 
 The example notebook opens with every result already computed. To read it without Colab, download
 [`example/EduAll_2_compare_allocations_example_run.html`](example/EduAll_2_compare_allocations_example_run.html), the whole
-notebook with its code, results and figures, and open it in any browser. The results alone also come as one web page,
+notebook with its code, results and figures, and open it in any browser. The same page comes as a PDF to print or
+annotate: [`example/EduAll_2_compare_allocations_example_run.pdf`](example/EduAll_2_compare_allocations_example_run.pdf) (74 pages). The results alone also come as one web page,
 [`example/comparison_report_example.html`](example/comparison_report_example.html): download it and open it in any
 browser. The answers in Part 9 of the example come from stored answers written by Claude (Anthropic) from the same
 prompts; each answer names its source. Your own run calls Gemini with your key.
@@ -53,6 +54,7 @@ data/
 example/
   EduAll_2_compare_allocations_example_run.ipynb   the notebook run on the Navy and Sky allocations
   EduAll_2_compare_allocations_example_run.html    the same notebook as a web page, with code, results and figures
+  EduAll_2_compare_allocations_example_run.pdf     the same notebook as a PDF (74 pages)
   comparison_report_example.html          the same results as one web page
   own_allocation_example.csv              Navy, the example "own" allocation
   other_allocation_example.csv            Sky, the example "other" allocation
