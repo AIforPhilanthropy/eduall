@@ -1,0 +1,218 @@
+{
+ "second_reader::STU000377::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "eligibility_issues": [
+    "Pending permit: 'My student B permit had to be renewed in June. I applied in time, but the migration office asks proof of about CHF 2,600 per month.' Any award must be conditional on the permit being granted."
+   ],
+   "exceptions_or_special_circumstances": [
+    "Family support falling: 'My parents are paying his hospital bills, and they have told me they cannot continue sending the same money.'",
+    "Housing: 'It is a sublet that ends in November, and I have not found a new place.'"
+   ],
+   "documented_need_2027_28": "About CHF 7,333: (2,200 - 230 - 325) x 11 months to July 2028 = CHF 18,095, capped at the pro-rated Bachelor's maximum of 8,000 x 11/12.",
+   "recommendation": "fund conditionally: the need is large and documented, and the award could serve as the proof of means the permit requires; payment only once the permit is granted.",
+   "confidence": "high: the numbers are consistent and the condition is stated by the applicant."
+  }
+ },
+ "second_reader::STU000239::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "eligibility_issues": [
+    "Pending permit: 'my student B permit expired in June ... the migration office will decide only when I can show about CHF 2,600 per month in resources.'",
+    "GPA below 2.5: 'my GPA is 2.0, and I am at risk.'"
+   ],
+   "exceptions_or_special_circumstances": [
+    "Reason for the grades: 'In February my mother died, and my brother was hospitalised after an accident in the same month. I travelled home, missed exams, and could not concentrate.'",
+    "Plan, not yet a result: 'I must retake two exams this autumn.'",
+    "Borrowing to cover the gap: 'I have been borrowing from church friends.'"
+   ],
+   "documented_need_2027_28": "About CHF 7,333: (2,212 - 120 - 226) x 11 months = CHF 20,526, capped at 8,000 x 11/12.",
+   "recommendation": "fund conditionally: on the permit and on passing the two retakes, since the call asks for improvement to be shown and so far only a plan is stated.",
+   "confidence": "medium: the explanation is specific and credible, but the improvement is not yet documented."
+  }
+ },
+ "second_reader::STU000382::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "eligibility_issues": [
+    "GPA below 2.5: 'My GPA is 2.07, and I am at risk.' Reasons are given ('German, the level of chemistry, and my hearing'), but no improvement is shown.",
+    "The text contradicts the form's numbers: 'I do not have a monthly deficit', while costs of CHF 2,578 against CHF 470 from the parents and no income or savings imply a gap of CHF 2,108 per month."
+   ],
+   "exceptions_or_special_circumstances": [
+    "War-related shock to the family business: 'my parents' business has lost several trucks in the war this year.'",
+    "Disability-related costs: 'my hearing loss requires hearing aids and a captioning service in lectures that the university only partly covers.' The FAQ points to a separate Disability Support Fund for such equipment."
+   ],
+   "documented_need_2027_28": "Uncertain: CHF 7,333 if the form's numbers are right ((2,578 - 470) x 11 = 23,188, capped), CHF 0 if the statement 'no monthly deficit' is right.",
+   "recommendation": "fund conditionally: only after the applicant clarifies which figures are correct; refer the hearing equipment to the Disability Support Fund.",
+   "confidence": "low: the application contradicts itself on the central question of need."
+  }
+ },
+ "second_reader::STU000261::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "eligibility_issues": [
+    "Pending permit: 'Renewal pending; I may not work until it is decided.' The award must be conditional on the permit."
+   ],
+   "exceptions_or_special_circumstances": [
+    "The award is the missing proof of means: 'A grant would count as proof of means and let me stay.'",
+    "Housing: 'my room is a sublet ending in December.'"
+   ],
+   "documented_need_2027_28": "About CHF 7,333: (1,879 - 250) x 11 months = CHF 17,919, capped at 8,000 x 11/12.",
+   "recommendation": "fund conditionally: GPA 3.1, no other resources, and a need that the award itself can unlock.",
+   "confidence": "high: short but complete and consistent with the form's numbers."
+  }
+ },
+ "second_reader::STU000232::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "eligibility_issues": [
+    "Pending permit: 'At the moment my residence permit is not valid ... My renewal is still pending.'",
+    "GPA below 2.5 (2.34), explained: German 'is the main reason my grades in the first years were low.'"
+   ],
+   "exceptions_or_special_circumstances": [
+    "Improvement shown: 'I now have a B2 certificate', and the personal statement reports that recent grades were the applicant's best.",
+    "Circular situation: 'without money I cannot get my permit, and without my permit I cannot work to earn money. A grant from EduAll would count as proof of means for the migration office.'",
+    "Loans from friends cover the current gap; the grant cannot be used to repay them."
+   ],
+   "documented_need_2027_28": "About CHF 7,333: (2,101 - 370) x 11 months = CHF 19,041, capped at 8,000 x 11/12.",
+   "recommendation": "fund conditionally: on the permit; the low GPA meets the call's exception (explained, with improvement).",
+   "confidence": "medium-high: specific and consistent; the improvement rests on the applicant's own statement."
+  }
+ },
+ "reconstruction::own::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "procedure": [
+    "Exclude applicants without a documented shortfall for 2027/28, Permit C holders with family resources, applicants with a GPA below 2.5 and no explanation, and doctoral applicants who do not document missing funding.",
+    "Keep applicants with a pending permit in the pool and fund them conditionally on the permit.",
+    "Rank the remaining applicants by a score in which documented need weighs about half and circumstances (low-income country, first-generation, specific risk circumstances, recent family shocks) about a third; academic record weighs little.",
+    "Fund about 175 applicants from the top of the ranking.",
+    "Pay each recipient a share of its documented ceiling that rises with its score, never above the ceiling."
+   ],
+   "evidence_for_each_step": [
+    "Funded inside vs outside: no documented shortfall 0.00 vs 0.45 (107 applicants); Permit C rule applies 0 of 16; GPA below 2.5 not explained 0 of 47; doctoral gap not documented 0 of 7. The audit shows no award on any 'condition' row.",
+    "Pending permits: 12 of 16 funded (0.75 vs 0.34 outside), CHF 45,700, all listed as conditional in the audit.",
+    "Implied weights: need 0.50, diversity & circumstances 0.35, resilience 0.11, academic 0.05 (R² 0.57); grouped SHAP 0.52, 0.29, 0.06, 0.08. Low-income country 0.57 vs 0.13 funded; first-generation 0.46 vs 0.22; risk_ticks_specific 284 CHF and family_support_at_risk 88 CHF among the top SHAP drivers.",
+    "175 recipients; selection tree: ceiling_text > 4,545 and GNI tier 1 and financial_need > 1,224 → 87% funded (AUC 0.95).",
+    "Award formula: 149 distinct amounts, none at or above the ceiling, median share of the gap paid 0.46 with IQR 0.23, ρ award vs ceiling 0.50. The replay of these steps recovers 158 recipients (Jaccard 0.82, ρ 0.87)."
+   ],
+   "interpretation_of_the_call": "Financial need is read from the forms for the grant year: the allocation follows shortfall_text (ρ 0.64) more than the form's current gap (0.55) or the CSV (0.46). The grey zones are read permissively where the call allows a condition: pending permits are funded conditionally and a low GPA is accepted with an explanation (10 of 19 with improvement, 4 of 15 without). Circumstances count far more than the call's 10% for diversity suggests.",
+   "what_would_refute_it": [
+    "If the committee's own ranking did not favour low-income-country applicants, the 0.35 weight of circumstances would come from a variable correlated with them (for example need), not from a deliberate criterion.",
+    "If the amounts were set case by case rather than by a score, a three-step replay could not recover 82% of the recipients and a rank correlation of 0.87; an independent re-run of the committee's procedure would settle it."
+   ],
+   "what_the_evidence_cannot_tell": "Why none of the four Permit C exception candidates is funded, and whether the applicants paid far more or less than the score predicts are deliberate exceptions or inconsistencies; only the committee's notes can say."
+  }
+ },
+ "reconstruction::other::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "procedure": [
+    "Exclude applicants without a documented shortfall, applicants with a pending permit, Permit C holders with family resources, doctoral applicants without documented missing funding, and applicants with a GPA below 2.5 unless they show improvement.",
+    "Rank the remaining applicants by a score in which documented need weighs about half and GPA about a quarter, with smaller weights for resilience and diversity.",
+    "Fund about 160 applicants from the top of the ranking.",
+    "Pay every recipient the same share, about half, of its documented ceiling."
+   ],
+   "evidence_for_each_step": [
+    "Funded inside: no documented shortfall 0 of 107; pending 0 of 16; Permit C rule applies 0 of 16; GPA below 2.5 0.04 vs 0.37 (3 of 81, all 'explained and improving'); doctoral gap not documented 0 of 7.",
+    "Implied weights: need 0.48, academic 0.26, resilience 0.15, diversity & circumstances 0.12 (R² 0.41); grouped SHAP 0.50, 0.25, 0.09, 0.08; gpa is the second SHAP driver (422 CHF).",
+    "160 recipients; selection tree: ceiling_text > 4,545 and gpa > 2.73 and family_income ≤ 784 → 65% funded, covering 88% of recipients (AUC 0.95).",
+    "Award formula: median share of the gap paid 0.50 with IQR 0.00, ρ award vs ceiling 1.00; amounts cluster (17 distinct, 36% at the most common amount) because documented ceilings cluster at the pro-rated level maxima."
+   ],
+   "interpretation_of_the_call": "The call is read literally and cautiously: a pending permit is a reason to exclude rather than to fund conditionally, and a low GPA is accepted only with shown improvement. Need sets both who is eligible and how much is paid, but only through the capped ceiling, so among recipients the award does not follow the uncapped shortfall (ρ −0.03). Academic record receives about the weight the call gives it (0.26 vs 0.25).",
+   "what_would_refute_it": [
+    "If GPA mattered only as the 2.5 threshold, the selection would not split at gpa 2.73 and 3.20 and GPA would not carry an implied weight of 0.26 with an interval of 0.22 to 0.31.",
+    "If the share of the gap paid were not constant, its IQR could not be 0.00 across 160 recipients."
+   ],
+   "what_the_evidence_cannot_tell": "The replay recovers only 130 of the 160 recipients (Jaccard 0.68): the selection contains a further element, for example separate quotas or a ranking within groups, that a single weighted score does not capture."
+  }
+ },
+ "own_procedure_check::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "confirmed": [
+    "Exclusions: 0 of 16 Permit C holders with family resources, 0 of 47 with a GPA below 2.5 and no explanation, 0 of 7 doctoral applicants without documentation; the audit shows no award on any condition row. The largest negative deviations from the allocation's own rule (STU000430, STU000292, STU000414, STU000146, STU000460) are exactly these exclusions, applied even where the score alone would have funded them.",
+    "Pending permits funded conditionally: 12 of 16, CHF 45,700.",
+    "Shortfall estimated from the forms: ceiling_text is the first driver (491 CHF) and the allocation follows shortfall_text (ρ 0.64) more than the form's current gap (0.55); no award exceeds the documented ceiling or the level maximum.",
+    "Priority to documented family shocks: 44 of 95 applicants with family support at risk are funded, against about a third of the others, and family_support_at_risk raises the predicted award (88 CHF)."
+   ],
+   "contradicted": [
+    {
+     "declared": "We granted the Permit C exception for holders whose family support collapsed.",
+     "observed": "0 of the 4 Permit C exception candidates are funded.",
+     "possible_reason": "They may rank low on the score or have small documented ceilings, or the group read their forms differently from the pattern of notebook 1 (2.6); the four forms should be re-read."
+    },
+    {
+     "declared": "Low GPA accepted when explained with improvement.",
+     "observed": "4 of 15 applicants whose low GPA is explained but without shown improvement are funded (CHF 11,260), among them STU000382, paid CHF 2,059 more than the rule predicts.",
+     "possible_reason": "The group accepted an explanation alone in some cases, or notebook 1 missed a statement of improvement."
+    },
+    {
+     "declared": "Paid need first, up to the shortfall and the level maximum.",
+     "observed": "No award reaches the documented ceiling; recipients receive a median 46% of their gap, and the share varies with the score (IQR 0.23), so circumstances set the amount as well as need.",
+     "possible_reason": "With the budget covering 23% of the pool's documented need, 'up to' acted as a cap, not as the amount."
+    }
+   ],
+   "not_mentioned": [
+    "A strong preference for applicants from low-income (GNI tier 1) countries: 57% funded against 13% (SHAP 275 CHF).",
+    "Part-time students and students finishing by January 2028 are funded much less often (0.13 vs 0.43; 0.14 vs 0.37), partly because their ceilings are smaller.",
+    "Applicants with the longest statements receive CHF 198 more than the criteria explain (p = 0.01), and the shortest third is funded at 0.68 of the most funded third's rate: a possible effect of reading long forms more favourably.",
+    "Eastern Europe and Southeast Asia receive less than half their proportional share of awards (0.24 and 0.40)."
+   ],
+   "intended_vs_measured_weights": "Need was intended at 50% and carries 50% (linear) to 55% (grouped SHAP): implemented as intended. Academic (intended 10%, measured 5 to 8%) and resilience (15%, measured 6 to 11%) weigh less than intended, and diversity & circumstances more (25%, measured 30 to 35%), three times the call's 10%.",
+   "questions_for_the_group": [
+    "Did you decide not to fund the four Permit C exception candidates, and on what reading of their forms?",
+    "Do longer forms receive more because they document more circumstances, or because they are longer? Re-read a sample of short and long forms blind to length.",
+    "How do you justify giving circumstances, and low-income countries in particular, three times the weight the call gives diversity?"
+   ]
+  }
+ },
+ "devils_advocate::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "mission_alignment": {
+    "case_for_other": "The other allocation weights the criteria much as the call does (distance 0.13 against 0.33): academic record carries 26% as the call's 25%, whereas own gives circumstances 30 to 35% for a criterion worth 10%. Every franc of the other allocation (CHF 498,920) closes a documented gap of an applicant whose eligibility is certain.",
+    "case_against_own": "CHF 45,700 (9% of own's budget) is tied to pending permits and may never be paid; own has no stated plan for it. Own's weights follow the group's priorities more than the call's.",
+    "what_would_settle_it": "Whether the call lets the committee shift weight between criteria, and what happens to conditional awards whose permits are refused. Own is ahead on life events: 60% of these cases reached against 32%."
+   },
+   "fairness_distributive_justice": {
+    "case_for_other": "Other's awards follow documented need more faithfully (ρ 0.45 against 0.33; concentration index 0.46 against 0.42), and treat equal needs equally: every recipient receives half its gap (IQR 0.00). Twice as many applicants with need receive at least half their gap (41% against 20%).",
+    "case_against_own": "Own's share of the gap paid varies with a score (IQR 0.23), so two applicants with the same documented need can receive very different sums; consistency among neighbours is barely higher (0.75 against 0.73).",
+    "what_would_settle_it": "Which principle the foundation adopts. The evidence clearly favours own on priority to the worst-off: 89% of the worst-off fifth funded against 63%, and 50% of their gap closed against 31%."
+   },
+   "diversity_representation": {
+    "case_for_other": "Other leaves fewer groups below half their proportional share (3 against 4) and draws recipients from more regions (effective number 4.87 against 4.33); own funds tier-2 countries at 0.47 and Southeast Asia at 0.40 of their share.",
+    "case_against_own": "Own's preference for tier-1 countries and South Asia (1.51) narrows the recipient pool rather than diversifying it.",
+    "what_would_settle_it": "Which groups the foundation must represent. Own does better for pending permits (1.68 against 0.00), housing insecurity (1.38 against 0.92) and provisionally admitted persons, Permit F (1.43 against 1.00)."
+   },
+   "bias_disparate_impact": {
+    "case_for_other": "Own shows the only notable unexplained gap: CHF 198 more for the longest statements (p = 0.01); the shortest statements are funded at 0.68 of the rate of the most funded third, and the long third at 1.15 times its expected rate. Own's lowest gender ratio is also further from 1 (0.87 against 0.95).",
+    "case_against_own": "If committee members rewarded long, moving forms, own's reading of the forms, its main strength, carries a verbosity bias.",
+    "what_would_settle_it": "Re-read a sample of short and long forms blind to length; check whether long forms contain more specific circumstances. Gender is unlikely to matter: switching women and men moves own's surrogate by CHF 1.84 on average, and the criteria do not predict gender (AUC 0.48)."
+   }
+  }
+ },
+ "synthesis::5ab108e30bad": {
+  "source": "example answer written by Claude (Anthropic) from this prompt while the notebook was prepared; not a Gemini output",
+  "answer": {
+   "headline": "Both allocations read the forms and break no hard rule; they differ in how they treat pending permits and low GPAs, in how much academic record weighs (own 0.05, other 0.26 implied weight), and in how they set amounts: own scales the gap by a score, other pays every recipient half of its documented ceiling.",
+   "own_rationale": "Screens on eligibility, then a score dominated by the text-informed shortfall (ceiling_text, 491 CHF) and by circumstances (implied weight 0.35; risk_ticks_specific 284 CHF; low-income country 57% vs 13% funded); awards are a score-dependent share of the documented ceiling (median 0.46). Pending permits are funded conditionally (12 of 16).",
+   "other_rationale": "Strict screens (no pending permit, low GPA only with improvement), then a score in which need and GPA dominate (implied weights 0.48 and 0.26; gpa 422 CHF); every recipient receives half of its documented ceiling (IQR 0.00, ρ award vs ceiling 1.00).",
+   "interpretation_of_soft_criteria": "Financial need: both follow the text-informed reading (ρ 0.64 own, 0.54 other); own lets the award grow with the uncapped shortfall (0.37 among recipients), other only with the capped ceiling (−0.03 against the shortfall). Pending permits: own reads 'conditional on the permit' as permission, other as a reason to exclude. Low GPA: own accepts explanations (14 funded), other requires improvement (3 of 19). Family shocks: own funds 44 of 95, other 23.",
+   "trade_off": "Own is ahead on need targeting (0.75 vs 0.67), breadth (0.45 vs 0.41), diversity (0.97 vs 0.88) and priority to the worst-off (89% vs 63% funded); other is ahead on depth (0.50 vs 0.46), academic record (0.63 vs 0.53), equality among recipients (0.89 vs 0.79) and closeness to the call's weights (0.13 vs 0.33). Neither dominates.",
+   "four_dimensions": {
+    "mission_alignment": "Both spend the whole budget within documented need; own reaches more life-event cases (60% vs 32%) but departs further from the call's weights and ties CHF 45,700 to pending permits.",
+    "fairness_distributive_justice": "Own follows priority to the worst-off; other follows proportional need with equal shares of the gap (41% vs 20% receive at least half their gap).",
+    "diversity_representation": "Own over-represents pending permits, refugees and housing insecurity; other excludes pending permits entirely but represents regions slightly more evenly (4.87 vs 4.33).",
+    "bias_disparate_impact": "No evidence of gender or age effects in either; own shows a CHF 198 gap in favour of long statements (p = 0.01) that needs an answer."
+   },
+   "errors_to_report": [],
+   "questions_for_the_other_group": [
+    "Why did you exclude all 16 pending applicants, when the call allows conditional awards and several write that the grant would be the proof of means their permit requires?",
+    "Why does GPA weigh about a quarter in your selection, when it enters the call as academic motivation and potential and the threshold of 2.5 already screens it?",
+    "Why half of every documented ceiling: was it a deliberate choice of equal treatment, or the result of spreading the budget?"
+   ],
+   "caveats": "The surrogate of the difference reproduces 42% of it, and the replay of the other allocation recovers only 68% of its recipients, so part of each rationale stays unexplained. The second reader recommends conditional funding for all five disputed cases, which supports own on these cases, but four of them turn on the same question, pending permits, so they count as one argument, not five."
+  }
+ }
+}
