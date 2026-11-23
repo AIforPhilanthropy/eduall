@@ -28,7 +28,9 @@ A second run finds everything in the folder and goes straight to the analyses.
 |---|---|
 | Example run on two simulated allocations, Navy and Sky | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AIforPhilanthropy/eduall/blob/main/part2_compare_allocations/example/EduAll_2_compare_allocations_example_run.ipynb) |
 
-The example notebook opens with every result already computed. The same results come as one web page,
+The example notebook opens with every result already computed. To read it without Colab, download
+[`example/EduAll_2_compare_allocations_example_run.html`](example/EduAll_2_compare_allocations_example_run.html), the whole
+notebook with its code, results and figures, and open it in any browser. The results alone also come as one web page,
 [`example/comparison_report_example.html`](example/comparison_report_example.html): download it and open it in any
 browser. The answers in Part 9 of the example come from stored answers written by Claude (Anthropic) from the same
 prompts; each answer names its source. Your own run calls Gemini with your key.
@@ -50,6 +52,7 @@ data/
   EduAll_forms.json                       the full text of the 500 forms, which Gemini reads in Part 9
 example/
   EduAll_2_compare_allocations_example_run.ipynb   the notebook run on the Navy and Sky allocations
+  EduAll_2_compare_allocations_example_run.html    the same notebook as a web page, with code, results and figures
   comparison_report_example.html          the same results as one web page
   own_allocation_example.csv              Navy, the example "own" allocation
   other_allocation_example.csv            Sky, the example "other" allocation
